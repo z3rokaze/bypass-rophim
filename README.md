@@ -1,22 +1,24 @@
-# 🎬 Bypass VIP Rophim - Hướng Dẫn Siêu Chi Tiết
+# 🎬 Rophim VIP Bypass - Modern Version
 
-![Version](https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge&logo=javascript)
+![Version](https://img.shields.io/badge/Version-1.3-blue?style=for-the-badge&logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Updated-14%2F10%2F2025-orange?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-Nov%202025-orange?style=for-the-badge)
+![No Key](https://img.shields.io/badge/No%20Key-Required-green?style=for-the-badge)
 
-> **🔥 Code crack đã được UPDATE MỚI NHẤT (14/10/2025)**  
-> **✅ MD5: `86d02be516a6cf10b5a2ef220d8998b9` - Verified!**
+> **⚡ Code mới tốt nhất - Clean, Modern, No Key!**  
+> **✅ Hook cả fetch() API + XMLHttpRequest**  
+> **✅ Chỉ 3KB - Gọn nhẹ - Dễ đọc**
 
 <div align="center">
 
-## ⭐ VIP Trọn Đời + 999 Triệu Coin ⭐
+## 🚀 VIP Trọn Đời + 999 Triệu Coin + Custom Theme
 
 | Tính năng | Trước | Sau |
 |:---------:|:-----:|:---:|
-| **VIP Status** | ❌ | ✅ **Active** |
+| **VIP Status** | ❌ | ✅ **Active đến 2050!** |
 | **Coin Balance** | 0 | 💰 **999,999,999** |
-| **VIP Expires** | N/A | 🕐 **+10 năm** |
-| **Quảng cáo** | ✅ Có | ❌ **Không** |
+| **Ads** | ✅ Có | ❌ **Đã ẩn** |
+| **Theme** | Default | 🎨 **Custom Green** |
 
 </div>
 
@@ -24,35 +26,93 @@
 
 ## 📋 MỤC LỤC
 
-1. [📥 Cài Đặt Nhanh](#-cài-đặt-nhanh-3-phút)
-2. [📖 Hướng Dẫn Từng Bước](#-hướng-dẫn-từng-bước-chi-tiết)
-3. [⚙️ Cách Hoạt Động](#️-cách-hoạt-động-technical)
-4. [🔧 Troubleshooting](#-troubleshooting-sửa-lỗi)
-5. [❓ FAQ](#-faq-câu-hỏi-thường-gặp)
-6. [📦 Files Trong Repo](#-files-trong-repo)
+1. [✨ Tính Năng Mới](#-tính-năng-mới)
+2. [📥 Cài Đặt Siêu Nhanh](#-cài-đặt-siêu-nhanh-2-phút)
+3. [📖 Hướng Dẫn Chi Tiết](#-hướng-dẫn-chi-tiết)
+4. [⚙️ Cách Hoạt Động](#️-cách-hoạt-động)
+5. [🎨 Custom Theme](#-custom-theme)
+6. [🔧 Troubleshooting](#-troubleshooting)
+7. [❓ FAQ](#-faq)
+8. [🆚 So Sánh Versions](#-so-sánh-với-phiên-bản-cũ)
 
 ---
 
-## 📥 CÀI ĐẶT NHANH (3 PHÚT)
+## ✨ TÍNH NĂNG MỚI
 
-### ✨ OPTION 1: Sử Dụng File Deobfuscated (Khuyến nghị)
+### 🎯 Điểm Mạnh Vượt Trội
 
-**Tại sao nên dùng file deobfuscated?**
-- ✅ Code đã giải mã - đọc được từng dòng
-- ✅ Đã kiểm tra - KHÔNG có mã độc
-- ✅ Dễ hiểu, dễ sửa
-- ✅ Không cần key
+<table>
+<tr>
+<td width="50%">
 
-**3 bước cực nhanh:**
+**🔥 Core Features**
+- ✅ **VIP vĩnh viễn** (đến năm 2050)
+- ✅ **999,999,999 Coin** không giới hạn
+- ✅ **Không cần key** - Dùng ngay lập tức
+- ✅ **Không quảng cáo** - Ẩn hết ads
+- ✅ **Auto inject CSS** - Theme đẹp mắt
 
-```bash
-┌─────────────────────────────────────────────┐
-│  BƯỚC 1: Cài Tampermonkey (30 giây)        │
-└─────────────────────────────────────────────┘
+</td>
+<td width="50%">
 
-Chrome/Edge: 
+**⚡ Technical Advantages**
+- ✅ **Hook fetch() API** (Modern!)
+- ✅ **Hook XMLHttpRequest** (Legacy support)
+- ✅ **3 API endpoints** được patch
+- ✅ **Response cloning** (Không break app)
+- ✅ **ES6+ code** (async/await, arrow functions)
+
+</td>
+</tr>
+</table>
+
+### 🔄 So Với Version Cũ
+
+```diff
++ Code mới: 3KB (vs 207KB cũ) - Nhẹ hơn 69 lần!
++ KHÔNG cần key (vs cần key "2025")
++ Hook fetch() + XHR (vs chỉ XHR)
++ Hook 3 endpoints (vs 1 endpoint)
++ Custom CSS theme (vs không có)
++ Modern ES6+ (vs ES5 old code)
++ Dễ đọc dễ sửa (vs obfuscated)
+```
+
+---
+
+## 📥 CÀI ĐẶT SIÊU NHANH (2 PHÚT)
+
+### 🎯 Option 1: Cài Tự Động (Khuyến Nghị) ⭐
+
+**Nếu đã có Tampermonkey:**
+
+```
+┌─────────────────────────────────────────┐
+│  1. Click link cài đặt:                 │
+│     → [CÀI ĐẶT SCRIPT]                  │
+│                                         │
+│  2. Popup Tampermonkey hiện ra          │
+│     → Click "Install"                   │
+│                                         │
+│  3. Vào www.rophim.li                   │
+│     → F5 (Reload)                       │
+│     → ✅ VIP Active!                    │
+└─────────────────────────────────────────┘
+```
+
+### 🎯 Option 2: Cài Thủ Công (Từng Bước)
+
+<details>
+<summary><b>📝 Hướng dẫn chi tiết 5 bước</b> (Click để mở)</summary>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BƯỚC 1: Cài Tampermonkey (30 giây)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Chrome/Edge:
 → chrome.google.com/webstore
-→ Tìm "Tampermonkey" 
+→ Tìm "Tampermonkey"
 → "Add to Chrome"
 
 Firefox:
@@ -60,1528 +120,1652 @@ Firefox:
 → Tìm "Tampermonkey"
 → "Add to Firefox"
 
-┌─────────────────────────────────────────────┐
-│  BƯỚC 2: Thêm Script (1 phút)               │
-└─────────────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BƯỚC 2: Mở Tampermonkey Dashboard (5 giây)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. Click icon Tampermonkey (góc phải toolbar)
-2. Chọn "Create a new script"
-3. XÓA hết code mẫu có sẵn
-4. Mở file "deobfucated.js" trong repo này
-5. Copy TOÀN BỘ nội dung (Ctrl+A → Ctrl+C)
-6. Paste vào Tampermonkey (Ctrl+V)
-7. Ctrl+S (Save)
+→ Click icon Tampermonkey (góc phải toolbar)
+→ Chọn "Dashboard"
+→ Tab mới mở ra
 
-┌─────────────────────────────────────────────┐
-│  BƯỚC 3: Sử Dụng (30 giây)                 │
-└─────────────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BƯỚC 3: Tạo Script Mới (10 giây)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. Vào www.rophim.me (hoặc .mx, .li)
-2. Đăng nhập tài khoản
-3. Reload trang (F5)
-4. ✅ VIP đã kích hoạt!
+→ Click icon "+" (Create new script)
+→ Editor mở ra với code mẫu
+→ Ctrl+A (Select all) → Delete
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BƯỚC 4: Copy Code (30 giây)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Method A: Từ repo này
+→ Mở file "core.js"
+→ Ctrl+A → Ctrl+C
+→ Paste vào Tampermonkey
+
+Method B: Từ GitLab gốc
+→ gitlab.com/tearrs/rophim-rox-userscript
+→ Mở file "core.js"
+→ Click "Raw"
+→ Ctrl+A → Ctrl+C
+→ Paste vào Tampermonkey
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BƯỚC 5: Save & Test (15 giây)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+→ Ctrl+S (Save script)
+→ Vào www.rophim.li
+→ Đăng nhập account
+→ F5 (Reload)
+→ Check coin → 999,999,999 ✅
+→ Done!
 ```
+
+</details>
 
 ---
 
-### ✨ OPTION 2: Sử Dụng File Obfuscated (Với Key)
-
-**File:** `rophim_vip.js` (207KB - code đã mã hóa)
-
-```bash
-┌─────────────────────────────────────────────┐
-│  BƯỚC 1-2: Giống Option 1                  │
-│  → Cài Tampermonkey và thêm script         │
-└─────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────┐
-│  BƯỚC 3: Nhập Key                           │
-└─────────────────────────────────────────────┘
-
-1. Lần đầu vào Rophim sẽ có popup nhập key
-2. Key hiện tại: 2025
-3. Nhập "2025" và click "Xác thực"
-4. Thành công → Popup đóng → VIP active!
-```
-
-**⚠️ Lưu ý:** File obfuscated khó đọc, nên dùng **Option 1** (deobfuscated)
-
----
-
-## 📖 HƯỚNG DẪN TỪNG BƯỚC CHI TIẾT
+## 📖 HƯỚNG DẪN CHI TIẾT
 
 ### 🔰 PHẦN 1: Chuẩn Bị
 
-#### 🖥️ Yêu Cầu Hệ Thống
+#### ✅ Yêu Cầu
 
-```
-✅ Trình duyệt: Chrome, Firefox, Edge, Safari, Brave (bất kỳ)
-✅ Hệ điều hành: Windows, Mac, Linux, Android (Kiwi Browser)
-✅ Internet: Cần kết nối để tải script & xem phim
-✅ Tài khoản Rophim: Đăng ký miễn phí tại rophim.me
-```
+| Yêu cầu | Chi tiết |
+|---------|----------|
+| **Trình duyệt** | Chrome, Firefox, Edge, Brave, Safari |
+| **Extension** | Tampermonkey (hoặc Violentmonkey, Greasemonkey) |
+| **Hệ điều hành** | Windows, Mac, Linux, Android |
+| **Kết nối** | Internet (để vào Rophim) |
+| **Tài khoản** | Đăng ký free tại rophim.li |
 
-#### 📦 Cài Tampermonkey
-
-**Tampermonkey là gì?**
-> Extension quản lý userscript - cho phép chạy JavaScript tùy chỉnh trên website
-
-**Cài đặt chi tiết:**
+#### 📦 Cài Tampermonkey Cho Từng Platform
 
 <details>
-<summary><b>🌐 Chrome / Edge / Brave</b> (Click để mở)</summary>
+<summary><b>🌐 Chrome / Edge / Brave</b></summary>
 
-```
-Bước 1: Mở Chrome Web Store
-   → Gõ vào thanh địa chỉ:
-   → chrome.google.com/webstore/category/extensions
+```bash
+# Cách 1: Qua Web Store
+1. Mở Chrome Web Store
+   URL: chrome.google.com/webstore
 
-Bước 2: Tìm kiếm Tampermonkey
-   → Gõ "Tampermonkey" vào ô search
-   → Hoặc link trực tiếp:
-   → chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+2. Tìm kiếm "Tampermonkey"
+   Hoặc link trực tiếp:
+   chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-Bước 3: Cài đặt
-   → Click nút "Add to Chrome" (màu xanh)
-   → Popup hiện → Click "Add extension"
-   → Chờ 2-3 giây
+3. Click "Add to Chrome"
+   → Popup xác nhận
+   → "Add extension"
 
-Bước 4: Kiểm tra
-   → Nhìn góc phải toolbar
-   → Thấy icon Tampermonkey (hình puzzle) → ✅ Thành công!
-   → Không thấy → Click icon "Extensions" → Pin Tampermonkey
-```
-</details>
-
-<details>
-<summary><b>🦊 Firefox</b> (Click để mở)</summary>
-
-```
-Bước 1: Mở Firefox Add-ons
-   → Gõ vào thanh địa chỉ:
-   → addons.mozilla.org/firefox/
-
-Bước 2: Tìm Tampermonkey
-   → Gõ "Tampermonkey" vào ô search
-   → Hoặc link trực tiếp:
-   → addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-
-Bước 3: Cài đặt
-   → Click "Add to Firefox"
-   → Popup hiện → Click "Add"
-   → Chờ install xong
-
-Bước 4: Cấp quyền
-   → Popup yêu cầu permissions
-   → Click "Okay, Got It"
-   → Icon Tampermonkey hiện → ✅ Done!
-```
-</details>
-
-<details>
-<summary><b>🍎 Safari (Mac)</b> (Click để mở)</summary>
-
-```
-Bước 1: Mở App Store
-   → Mở App Store trên Mac
-   
-Bước 2: Tìm Tampermonkey
-   → Gõ "Tampermonkey" vào search
-   
-Bước 3: Cài đặt
-   → Click "Get" → "Install"
-   → Nhập mật khẩu Apple ID nếu yêu cầu
-   
-Bước 4: Enable trong Safari
-   → Safari → Preferences → Extensions
-   → Tích vào Tampermonkey → ✅ Active!
-```
-</details>
-
-<details>
-<summary><b>📱 Android (Kiwi Browser)</b> (Click để mở)</summary>
-
-```
-Bước 1: Cài Kiwi Browser
-   → Vào Google Play Store
-   → Tìm "Kiwi Browser"
-   → Cài đặt
-
-Bước 2: Mở Chrome Web Store
-   → Mở Kiwi Browser
-   → Vào chrome.google.com/webstore
-   → Chấp nhận dùng Chrome extensions
-
-Bước 3: Cài Tampermonkey
-   → Tìm "Tampermonkey"
-   → Add to Kiwi
-   → Chờ cài xong
-
-Bước 4: Kiểm tra
-   → Menu (3 chấm) → Extensions
-   → Thấy Tampermonkey → ✅ OK!
-```
-</details>
-
----
-
-### 🔰 PHẦN 2: Thêm Script Bypass
-
-#### 📝 Phương Án A: Copy/Paste File Deobfuscated (Dễ nhất)
-
-**Hướng dẫn siêu chi tiết:**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 1: Mở File deobfucated.js                         │
-└─────────────────────────────────────────────────────────┘
-
-Cách 1: Nếu đã clone repo về máy
-   → Mở folder repo
-   → Double click file "deobfucated.js"
-   → File sẽ mở bằng Notepad/TextEdit/VSCode
-
-Cách 2: Xem trực tiếp trên GitHub
-   → Vào repo này trên GitHub
-   → Click file "deobfucated.js"
-   → Click nút "Raw" (góc phải)
-   → Copy toàn bộ code (Ctrl+A → Ctrl+C)
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 2: Mở Tampermonkey Dashboard                     │
-└─────────────────────────────────────────────────────────┘
-
-   → Click icon Tampermonkey (góc phải toolbar)
-   → Trong menu hiện ra, chọn "Dashboard"
-   → Tab mới mở ra với danh sách scripts
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 3: Tạo Script Mới                                 │
-└─────────────────────────────────────────────────────────┘
-
-   → Click icon "+" (góc phải, bên cạnh "Installed scripts")
-   → Hoặc click tab "Utilities" → "Create a new script"
-   → Editor mở ra với code mẫu:
-
-   // ==UserScript==
-   // @name         New Userscript
-   // ...
-   // ==/UserScript==
-   
-   (function() {
-       'use strict';
-       // Your code here...
-   })();
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 4: Xóa Code Mẫu                                   │
-└─────────────────────────────────────────────────────────┘
-
-   → Ctrl+A (Select All)
-   → Delete (Xóa hết)
-   → Màn hình editor giờ trống trơn
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 5: Paste Code Bypass                             │
-└─────────────────────────────────────────────────────────┘
-
-   → Ctrl+V (Paste code đã copy từ deobfucated.js)
-   → Code sẽ hiện ra đầy đủ (642 dòng)
-   → Kiểm tra metadata ở đầu file:
-
-   // ==UserScript==
-   // @name         Rophim VIP Bypass (Deobfuscated)
-   // @version      1.2
-   // @match        *://www.rophim.me/*
-   // ...
-
-   ⚠️ QUAN TRỌNG: Phải có dòng:
-   // @run-at       document-start
-   
-   → Nếu thiếu → Thêm vào!
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 6: Lưu Script                                     │
-└─────────────────────────────────────────────────────────┘
-
-   → Ctrl+S (Save)
-   → Hoặc File → Save
-   → Hoặc click icon "💾" (Save)
-   
-   → Thấy thông báo "Script saved" → ✅ Thành công!
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 7: Kiểm Tra Script Đã Enable                     │
-└─────────────────────────────────────────────────────────┘
-
-   → Quay lại tab "Installed userscripts"
-   → Thấy script mới xuất hiện
-   → Cột "Enabled" có icon ✅ màu xanh
-   → Nếu ❌ màu đỏ → Click để bật
-```
-
-**📸 Hình minh họa flow:**
-
-```
-┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
-│  Clone   │ →  │   Copy   │ →  │  Paste   │ →  │   Save   │
-│   Repo   │    │   Code   │    │ to TM    │    │  Script  │
-└──────────┘    └──────────┘    └──────────┘    └──────────┘
-      │                                                 │
-      ↓                                                 ↓
-┌──────────┐                                    ┌──────────┐
-│   Open   │                                    │  Enable  │
-│   File   │                                    │  Script  │
-└──────────┘                                    └──────────┘
-```
-
----
-
-#### 📝 Phương Án B: Import File Trực Tiếp
-
-**Yêu cầu:** File `.js` đã tải về máy
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 1: Tải File Về Máy                                │
-└─────────────────────────────────────────────────────────┘
-
-GitHub:
-   → Vào repo trên GitHub
-   → Click "Code" (nút xanh)
-   → Chọn "Download ZIP"
-   → Giải nén ZIP
-   → Tìm file "deobfucated.js"
-
-Hoặc Clone:
-   → git clone https://github.com/yourusername/repo.git
-   → cd repo
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 2: Import vào Tampermonkey                       │
-└─────────────────────────────────────────────────────────┘
-
-   → Mở Tampermonkey Dashboard
-   → Tab "Utilities"
-   → Section "Import from file"
-   → Click "Choose File"
-   → Chọn file "deobfucated.js"
-   → Click "Import"
-   
-   → Popup xác nhận → Click "OK"
-   → Script tự động add vào danh sách
+4. Chờ cài đặt (2-3 giây)
+   → Icon TM xuất hiện góc phải
    → ✅ Done!
+
+# Cách 2: Offline (nếu không vào được Web Store)
+1. Download CRX file từ website chính thức
+2. Chrome → Settings → Extensions
+3. Enable "Developer mode"
+4. Drag & drop CRX file vào
+5. Confirm install
+```
+
+</details>
+
+<details>
+<summary><b>🦊 Firefox</b></summary>
+
+```bash
+1. Mở Firefox Add-ons
+   URL: addons.mozilla.org
+
+2. Tìm "Tampermonkey"
+   Link: addons.mozilla.org/firefox/addon/tampermonkey/
+
+3. Click "Add to Firefox"
+   → Popup permissions
+   → "Add" để confirm
+
+4. Grant permissions
+   → "Okay, Got It"
+   → Icon TM hiện ở toolbar
+   → ✅ Done!
+
+# Lưu ý Firefox:
+- Cần grant permissions đầy đủ
+- Có thể dùng Greasemonkey (alternative)
+- Violentmonkey cũng support Firefox
+```
+
+</details>
+
+<details>
+<summary><b>🍎 Safari (Mac)</b></summary>
+
+```bash
+1. Mở App Store trên Mac
+   → Command+Space → "App Store"
+
+2. Tìm "Tampermonkey"
+   → Search box → "Tampermonkey"
+
+3. Download & Install
+   → Click "Get" → "Install"
+   → Nhập Apple ID password nếu yêu cầu
+
+4. Enable trong Safari
+   → Safari → Preferences (Cmd+,)
+   → Tab "Extensions"
+   → Tick ✅ Tampermonkey
+   → Grant permissions
+
+5. Confirm
+   → Icon TM xuất hiện
+   → ✅ Ready!
+
+# Lưu ý Safari:
+- Phải enable extension manually
+- Grant full permissions
+- Có thể cần restart Safari
+```
+
+</details>
+
+<details>
+<summary><b>📱 Android (Mobile)</b></summary>
+
+```bash
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+METHOD 1: Kiwi Browser (Khuyến nghị) ⭐
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BƯỚC 1: Cài Kiwi Browser
+→ Google Play Store
+→ Tìm "Kiwi Browser"
+→ Install (Free)
+
+BƯỚC 2: Vào Chrome Web Store
+→ Mở Kiwi Browser
+→ Vào chrome.google.com/webstore
+→ Chấp nhận dùng Chrome extensions
+
+BƯỚC 3: Cài Tampermonkey
+→ Tìm "Tampermonkey"
+→ "Add to Kiwi"
+→ Confirm
+
+BƯỚC 4: Kiểm tra
+→ Menu (⋮) → Extensions
+→ Thấy Tampermonkey → ✅ OK!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+METHOD 2: Firefox Mobile
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BƯỚC 1: Cài Firefox
+→ Play Store → Firefox
+→ Install
+
+BƯỚC 2: Cài Tampermonkey
+→ Menu → Add-ons
+→ Tìm "Tampermonkey"
+→ Add
+
+BƯỚC 3: Grant permissions
+→ Allow all permissions
+→ ✅ Done!
+
+# Lưu ý Mobile:
+- Kiwi dễ dùng hơn
+- Firefox có UI tốt hơn
+- Cả 2 đều free
+```
+
+</details>
+
+---
+
+### 🔰 PHẦN 2: Cài Script
+
+#### 📝 Method 1: Copy/Paste Code (Dễ nhất)
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 1: Lấy Code                                       │
+└─────────────────────────────────────────────────────────┘
+
+Từ repo này:
+1. Mở file "core.js"
+2. Click nút "Raw" (nếu trên GitHub)
+3. Ctrl+A (Select All)
+4. Ctrl+C (Copy)
+
+Hoặc từ GitLab gốc:
+1. Vào gitlab.com/tearrs/rophim-rox-userscript
+2. Click file "core.js"
+3. Click "Raw"
+4. Ctrl+A → Ctrl+C
+
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 2: Tạo Script Trong Tampermonkey                 │
+└─────────────────────────────────────────────────────────┘
+
+1. Click icon Tampermonkey (toolbar)
+2. Chọn "Dashboard"
+3. Click icon "+" (Create new script)
+
+Editor mở ra với code mẫu:
+// ==UserScript==
+// @name         New Userscript
+// ...
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    // Your code here...
+})();
+
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 3: Xóa Code Mẫu & Paste Code Mới                 │
+└─────────────────────────────────────────────────────────┘
+
+1. Ctrl+A (Select all code mẫu)
+2. Delete
+3. Ctrl+V (Paste code đã copy)
+
+Code sẽ hiện:
+(function () {
+  "use strict";
+
+  const TARGETS = [
+    "https://rophimapi.net/v1/user/info",
+    ...
+  ];
+  ...
+})();
+
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 4: Thêm Metadata (QUAN TRỌNG!)                   │
+└─────────────────────────────────────────────────────────┘
+
+Code từ GitLab KHÔNG có metadata header!
+→ Phải thêm vào đầu file:
+
+// ==UserScript==
+// @name         Rophim VIP Bypass
+// @namespace    http://tampermonkey.net/
+// @version      1.3
+// @description  VIP + 999M Coin - No Key
+// @author       tearrs
+// @match        *://www.rophim.li/*
+// @match        *://www.rophim.me/*
+// @match        *://www.rophim.mx/*
+// @match        *://goatembed.com/*
+// @run-at       document-start
+// @grant        none
+// ==/UserScript==
+
+(function () {
+  "use strict";
+  // Code phía dưới...
+})();
+
+⚠️ Lưu ý:
+- PHẢI có @match để script chạy đúng domain
+- PHẢI có @run-at document-start
+- @grant none (không cần quyền đặc biệt)
+
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 5: Save Script                                   │
+└─────────────────────────────────────────────────────────┘
+
+1. Ctrl+S (Save)
+   Hoặc File → Save
+   Hoặc click icon 💾
+
+2. Thấy thông báo "Script saved"
+   → ✅ Thành công!
+
+3. Quay lại tab "Installed userscripts"
+   → Thấy script mới
+   → Icon ✅ xanh (enabled)
+```
+
+#### 📥 Method 2: Import File
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 1: Download File                                  │
+└─────────────────────────────────────────────────────────┘
+
+From GitHub:
+→ Click "Code" → "Download ZIP"
+→ Giải nén → Tìm file "core.js"
+
+From GitLab:
+→ Click "Clone" → "Download"
+→ Giải nén → File "core.js"
+
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 2: Import Vào Tampermonkey                       │
+└─────────────────────────────────────────────────────────┘
+
+1. Tampermonkey Dashboard
+2. Tab "Utilities"
+3. Section "Import from file"
+4. Click "Choose File"
+5. Chọn "core.js"
+6. Click "Import"
+
+⚠️ Lưu ý: Vẫn cần thêm metadata header!
+→ Sau khi import → Edit script → Thêm header
+
+┌─────────────────────────────────────────────────────────┐
+│  BƯỚC 3: Verify                                        │
+└─────────────────────────────────────────────────────────┘
+
+→ Tab "Installed userscripts"
+→ Thấy script → ✅ Enabled
+→ Ready!
 ```
 
 ---
 
-### 🔰 PHẦN 3: Sử Dụng Script
+### 🔰 PHẦN 3: Sử Dụng
 
-#### 🎬 Quy Trình Xem Phim VIP
-
-**Flow hoàn chỉnh:**
+#### 🎬 Workflow Hoàn Chỉnh
 
 ```
       ┌─────────────────────────┐
-      │   Mở www.rophim.me      │
+      │  Vào www.rophim.li      │
       └───────────┬─────────────┘
                   │
                   ▼
       ┌─────────────────────────┐
-      │   Script tự động load    │
-      │   (Không cần làm gì!)   │
+      │  Script tự động load    │
+      │  (Không cần làm gì!)    │
       └───────────┬─────────────┘
                   │
                   ▼
       ┌─────────────────────────┐
-      │   Đăng nhập tài khoản   │
-      │   (Nếu chưa đăng nhập)  │
+      │  Đăng nhập account      │
+      │  (hoặc đã đăng nhập)    │
       └───────────┬─────────────┘
                   │
                   ▼
       ┌─────────────────────────┐
-      │   Website gọi API       │
-      │   GET /v1/user/info     │
+      │  Website call API       │
+      │  fetch("/v1/user/info") │
       └───────────┬─────────────┘
                   │
                   ▼
       ┌─────────────────────────┐
-      │   Script chặn request   │
-      │   Sửa response:         │
-      │   is_vip = true         │
-      │   coin = 999,999,999    │
+      │  Script hook & patch    │
+      │  is_vip = true          │
+      │  coin = 999,999,999     │
       └───────────┬─────────────┘
                   │
                   ▼
       ┌─────────────────────────┐
-      │   Website hiển thị VIP  │
-      │   ✅ VIP Active         │
-      │   💰 999M Coin          │
+      │  Website nhận fake data │
+      │  ✅ VIP Active!         │
+      │  💰 999M Coin!          │
+      │  🎨 Theme xanh lá       │
       └─────────────────────────┘
 ```
 
-**Hướng dẫn step-by-step:**
+#### 📝 Chi Tiết Từng Bước
 
+<details>
+<summary><b>BƯỚC 1: Truy Cập Website</b></summary>
+
+```bash
+# Mở trình duyệt (đã cài Tampermonkey + Script)
+
+# Vào một trong các domain:
+→ www.rophim.li    (Khuyến nghị)
+→ www.rophim.me
+→ www.rophim.mx
+
+# Script sẽ TỰ ĐỘNG:
+✅ Detect domain match
+✅ Inject CSS (theme xanh lá)
+✅ Hook fetch() API
+✅ Hook XMLHttpRequest
+✅ Ready to patch responses
+
+# Kiểm tra script đã load:
+→ F12 (DevTools)
+→ Console tab
+→ Không có lỗi đỏ → ✅ OK
+→ Hoặc check Tampermonkey icon → Badge "1"
 ```
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 1: Truy Cập Website                               │
-└─────────────────────────────────────────────────────────┘
 
-   → Mở trình duyệt (đã cài Tampermonkey + Script)
-   → Gõ địa chỉ: www.rophim.me
-   → Hoặc: www.rophim.mx
-   → Hoặc: www.rophim.li
-   
-   → Enter → Trang load
-   
-   ⚠️ Lưu ý: Phải đúng domain (me/mx/li)
-   → Script chỉ chạy trên 3 domain này
+</details>
 
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 2: Kiểm Tra Script Đã Load                       │
-└─────────────────────────────────────────────────────────┘
+<details>
+<summary><b>BƯỚC 2: Đăng Nhập</b></summary>
 
-   Cách 1: Check Tampermonkey Icon
-      → Nhìn icon Tampermonkey (góc phải)
-      → Thấy badge số "1" → Script đã load ✅
-      → Không thấy số → Script chưa chạy ❌
+```bash
+# Nếu chưa có tài khoản:
+1. Click "Đăng ký" (góc phải)
+2. Nhập email + password
+3. Xác nhận email (check inbox)
+4. Đăng nhập
 
-   Cách 2: Check Console (Nâng cao)
-      → F12 (Mở DevTools)
-      → Tab "Console"
-      → Tìm dòng log: "Rophim VIP Bypass activated"
-      → Thấy → ✅ Script hoạt động
-      → Không thấy → ❌ Có vấn đề
+# Nếu đã có tài khoản:
+1. Click "Đăng nhập"
+2. Nhập email + password
+3. Click "Đăng nhập"
 
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 3: Đăng Nhập Tài Khoản                           │
-└─────────────────────────────────────────────────────────┘
+# Sau khi đăng nhập:
+→ Website redirect về homepage
+→ Avatar/username hiện góc phải
+→ ✅ Đã đăng nhập
 
-   Nếu chưa có tài khoản:
-      → Click "Đăng ký" (góc phải)
-      → Nhập email, password
-      → Xác nhận email
-      → Đăng nhập
-
-   Nếu đã có tài khoản:
-      → Click "Đăng nhập"
-      → Nhập email + password
-      → Click "Đăng nhập"
-   
-   → Website redirect về trang chủ
-   → Đã đăng nhập thành công
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 4: Reload Trang (QUAN TRỌNG!)                    │
-└─────────────────────────────────────────────────────────┘
-
-   → Nhấn F5 (Reload page)
-   → Hoặc Ctrl+R
-   → Hoặc click icon reload ↻
-   
-   ⚠️ Tại sao phải reload?
-   → Để API /v1/user/info được gọi lại
-   → Script sẽ chặn và modify response
-   → VIP sẽ active
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 5: Kiểm Tra VIP Đã Active                        │
-└─────────────────────────────────────────────────────────┘
-
-   Cách 1: Check Avatar/Username
-      → Click vào avatar (góc phải)
-      → Xem thông tin account
-      → Coin Balance: 999,999,999 → ✅ Thành công!
-      → VIP Status: Active
-      → VIP Expires: (Ngày sau ~10 năm)
-
-   Cách 2: Thử Xem Phim VIP
-      → Tìm phim có nhãn "VIP"
-      → Click vào
-      → Nếu xem được → ✅ Bypass thành công!
-      → Nếu bị chặn → ❌ Cần fix
-
-   Cách 3: Check Console (Technical)
-      → F12 → Console
-      → F12 → Network → Filter "user"
-      → Tìm request "user/info"
-      → Click → Tab "Response"
-      → Xem JSON:
-        {
-          "result": {
-            "is_vip": true,        ← Check này
-            "coin_balance": 999999999  ← Và này
-          }
-        }
+# Lưu ý:
+- Script chỉ hoạt động khi ĐÃ đăng nhập
+- Chưa đăng nhập → Website không call API user info
+- → Script không có gì để patch
 ```
+
+</details>
+
+<details>
+<summary><b>BƯỚC 3: Reload Trang (Quan Trọng!)</b></summary>
+
+```bash
+# Sau lần đầu đăng nhập → PHẢI reload!
+
+Cách reload:
+→ F5
+→ Ctrl+R
+→ Click icon reload ↻
+→ Hoặc refresh từ menu
+
+# Tại sao phải reload?
+→ API /v1/user/info được call khi page load
+→ Lần đầu đăng nhập → API đã call trước khi script hook
+→ Reload → API call lại → Script patch được
+
+# Hard reload (nếu cần):
+→ Ctrl+Shift+R (Windows/Linux)
+→ Cmd+Shift+R (Mac)
+→ Xóa cache và reload
+```
+
+</details>
+
+<details>
+<summary><b>BƯỚC 4: Kiểm Tra VIP Đã Active</b></summary>
+
+```bash
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+METHOD 1: Check Coin Balance (Dễ nhất)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Click vào avatar/username (góc phải)
+2. Xem "Coin Balance"
+3. Nếu thấy: 999,999,999
+   → ✅ Script hoạt động!
+
+4. Nếu vẫn: 0
+   → ❌ Script chưa hoạt động
+   → F5 reload lại
+   → Check troubleshooting
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+METHOD 2: Check Theme Color
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Script inject CSS theme xanh lá (#51f085)
+
+Nhìn vào:
+→ Nút chính (primary buttons)
+→ IMDB rating tag
+→ Developer badge
+
+Nếu thấy màu XANH LÁ (#51f085)
+→ ✅ CSS đã inject
+→ Script đang hoạt động!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+METHOD 3: Thử Xem Phim VIP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Tìm phim có nhãn "ROX" hoặc "VIP"
+2. Click vào phim
+3. Click "Xem phim"
+
+Nếu xem được:
+→ ✅ Bypass thành công!
+
+Nếu bị block:
+→ ❌ Cần check lại
+→ See troubleshooting section
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+METHOD 4: Check Network (Technical)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. F12 (DevTools)
+2. Network tab
+3. Reload trang (F5)
+4. Filter: "user"
+5. Tìm request "user/info"
+6. Click → Tab "Response"
+
+Xem JSON response:
+{
+  "result": {
+    "is_vip": true,         ← Phải TRUE
+    "coin_balance": 999999999  ← Phải 999M
+  }
+}
+
+→ ✅ Script đã patch response!
+```
+
+</details>
 
 ---
 
-## ⚙️ CÁCH HOẠT ĐỘNG (TECHNICAL)
+## ⚙️ CÁCH HOẠT ĐỘNG
 
-### 🔬 Nguyên Lý Core
+### 🔬 Nguyên Lý Kỹ Thuật
 
-Script sử dụng kỹ thuật **Client-Side Response Modification** thông qua **XMLHttpRequest Hooking**.
-
-**Tóm tắt:**
-> Chặn request → Đợi response → Sửa JSON → Website nhận fake data → Hiển thị VIP
-
----
-
-### 📡 Flow Hoạt Động Chi Tiết
+Script này sử dụng **2 layers hooking** để đảm bảo bắt được mọi API call:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    ROPHIM WEBSITE                           │
-│  ┌──────────────────────────────────────────────────────┐   │
-│  │  JavaScript Code                                     │   │
-│  │  ────────────────                                    │   │
-│  │  xhr = new XMLHttpRequest();                         │   │
-│  │  xhr.open("GET", "/v1/user/info");                   │   │
-│  │  xhr.send();                                         │   │
-│  └──────────┬───────────────────────────────────────────┘   │
-│             │                                                │
-└─────────────┼────────────────────────────────────────────────┘
-              │
-              │ ① Website gọi API
-              ▼
-┌─────────────────────────────────────────────────────────────┐
-│            🎣 BYPASS SCRIPT (Hook Layer)                    │
-│                                                             │
-│  XMLHttpRequest.prototype.open = function(method, url) {   │
-│      this._url = url;  ← ② Lưu URL                         │
-│      return originalOpen.apply(this, arguments);           │
-│  }                                                          │
-│                                                             │
-│  XMLHttpRequest.prototype.send = function() {              │
-│      this.addEventListener("load", function() {            │
-│          if (this._url.includes("/v1/user/info")) {        │
-│              ← ③ Detect API endpoint                       │
-│              ← ④ Chờ response từ server                    │
-│          }                                                  │
-│      });                                                    │
-│  }                                                          │
-└─────────────┬───────────────────────────────────────────────┘
-              │
-              │ Request đi server bình thường
-              ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    ROPHIM SERVER                            │
-│  ┌──────────────────────────────────────────────────────┐   │
-│  │  Database Query                                      │   │
-│  │  ──────────────                                      │   │
-│  │  SELECT * FROM users WHERE id = ?                    │   │
-│  │                                                      │   │
-│  │  Result:                                             │   │
-│  │  {                                                   │   │
-│  │    "is_vip": false,     ← User không phải VIP       │   │
-│  │    "coin_balance": 0    ← Không có coin             │   │
-│  │  }                                                   │   │
-│  └──────────┬───────────────────────────────────────────┘   │
-└─────────────┼────────────────────────────────────────────────┘
-              │
-              │ ⑤ Server trả response
-              ▼
-┌─────────────────────────────────────────────────────────────┐
-│            🎣 BYPASS SCRIPT (Modify Layer)                  │
-│                                                             │
-│  let data = JSON.parse(this.responseText);                 │
-│                                                             │
-│  ⑥ Sửa đổi response:                                       │
-│  data.result.is_vip = true;           ← TRUE!              │
-│  data.result.coin_balance = 999999999; ← 999M!             │
-│  data.result.vip_expires_at = Date.now() + 315360000000;   │
-│                                                             │
-│  ⑦ Override response property:                             │
-│  Object.defineProperty(this, "responseText", {             │
-│      value: JSON.stringify(data)  ← Response giả!          │
-│  });                                                        │
-└─────────────┬───────────────────────────────────────────────┘
-              │
-              │ ⑧ Website nhận response đã sửa
-              ▼
-┌─────────────────────────────────────────────────────────────┐
-│                    ROPHIM WEBSITE                           │
-│  ┌──────────────────────────────────────────────────────┐   │
-│  │  Receive Response:                                   │   │
-│  │  {                                                   │   │
-│  │    "is_vip": true,      ← ✅ VIP!                   │   │
-│  │    "coin_balance": 999999999  ← ✅ 999M Coin!       │   │
-│  │  }                                                   │   │
-│  │                                                      │   │
-│  │  ⑨ Render UI:                                       │   │
-│  │  → Hiển thị badge VIP                               │   │
-│  │  → Hiển thị coin: 999,999,999                       │   │
-│  │  → Mở khóa nội dung VIP                             │   │
-│  └──────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│              WEBSITE ROPHIM                             │
+│                                                         │
+│  Modern Code:                  Legacy Code:             │
+│  ┌──────────────┐             ┌──────────────┐         │
+│  │  fetch() API │             │ XMLHttpRequest│         │
+│  └───────┬──────┘             └──────┬───────┘         │
+│          │                           │                  │
+└──────────┼───────────────────────────┼──────────────────┘
+           │                           │
+           ▼                           ▼
+┌─────────────────────────────────────────────────────────┐
+│            🎣 SCRIPT HOOK LAYER                         │
+│                                                         │
+│  Hook 1:              Hook 2:                          │
+│  window.fetch()       window.XMLHttpRequest            │
+│  ↓                    ↓                                 │
+│  ① Intercept URL      ① Intercept URL                  │
+│  ② Check TARGETS      ② Check TARGETS                  │
+│  ③ Clone response     ③ Listen "load"                  │
+│  ④ Patch JSON         ④ Patch responseText             │
+│  ⑤ Return fake        ⑤ Override property              │
+└─────────────────────────────────────────────────────────┘
 ```
 
----
+### 💻 Code Breakdown Chi Tiết
 
-### 💻 Code Breakdown
-
-#### 🔧 Phần 1: Hook XMLHttpRequest.open()
+#### 🎯 Phần 1: Định Nghĩa Targets
 
 ```javascript
-// Lưu function gốc
-const open = XMLHttpRequest.prototype.open;
+const TARGETS = [
+  "https://rophimapi.net/v1/user/info",          // Get user info
+  "https://rophimapi.net/v1/user/updateProfile", // Update profile
+  "https://rophimapi.net/v1/auth/login",         // Login
+];
+```
 
-// Override function open()
-XMLHttpRequest.prototype.open = function (method, url) {
-  // Lưu URL vào property _url để dùng sau
-  this._url = url;
+**Giải thích:**
+- Script chỉ patch **3 endpoints** này
+- Các API khác → Không động chạm
+- Dùng `Array.some()` để check URL contains
+
+**Tại sao 3 endpoints?**
+```
+/v1/user/info
+  → API trả thông tin user (VIP, coin)
+  → Gọi mỗi lần page load
+  → QUAN TRỌNG NHẤT
+
+/v1/user/updateProfile
+  → API update profile user
+  → Đảm bảo sau khi update vẫn VIP
+
+/v1/auth/login
+  → API đăng nhập
+  → Patch ngay từ lúc login → VIP luôn
+```
+
+---
+
+#### 🎯 Phần 2: Custom CSS
+
+```javascript
+const css = `
+  :root {
+    --primary-color: #51f085 !important;
+    --primary-text: #51f085 !important;
+  }
+  .dev.dev-up {
+    color: #51f085 !important;
+  }
+  .tag-imdb {
+    border: 1px solid #51f085 !important;
+  }
+  .tag-imdb:before {
+    color: #51f085 !important;
+  }
+  .app-box-fix {
+    display: none !important;  // Ẩn quảng cáo
+  }
+`;
+```
+
+**Giải thích:**
+- `#51f085` = Màu xanh lá đẹp mắt
+- `:root` → Override CSS variables toàn cục
+- `.app-box-fix` → Ẩn box quảng cáo
+- `!important` → Force override CSS website
+
+**Kết quả:**
+```
+Before: Theme màu đỏ/cam/xanh dương
+After:  Theme màu XANH LÁ toàn bộ
+        + Không quảng cáo
+```
+
+---
+
+#### 🎯 Phần 3: Inject CSS Function
+
+```javascript
+let cssInjected = false;
+
+function injectCSSOnce() {
+  if (cssInjected) return;  // Chỉ inject 1 lần
+  cssInjected = true;
   
-  // Gọi function gốc để request vẫn hoạt động bình thường
-  return open.apply(this, arguments);
+  const style = document.createElement("style");
+  style.textContent = css;
+  document.documentElement.appendChild(style);
+}
+```
+
+**Giải thích:**
+- Flag `cssInjected` → Tránh inject nhiều lần
+- Tạo `<style>` tag → Append vào `<html>`
+- CSS apply toàn trang
+
+**Flow:**
+```
+1. First API call → injectCSSOnce()
+2. Create <style> tag
+3. Append to <html>
+4. CSS takes effect
+5. Flag = true
+6. Future calls → Skip (return early)
+```
+
+---
+
+#### 🎯 Phần 4: Patch User Info Function
+
+```javascript
+function patchUserInfo(data) {
+  if (data?.result) {
+    // Patch nested user object (nếu có)
+    if (data.result.user) {
+      Object.assign(data.result.user, {
+        vip_expires_at: 2524608000,  // Timestamp năm 2050
+        coin_balance: 999999999,
+        is_vip: true,
+      });
+    }
+    
+    // Patch result object chính
+    Object.assign(data.result, {
+      vip_expires_at: 2524608000,
+      coin_balance: 999999999,
+      is_vip: true,
+    });
+  }
+  
+  injectCSSOnce();  // Inject CSS
+  return data;
+}
+```
+
+**Giải thích:**
+
+**① Optional Chaining (`?.`):**
+```javascript
+if (data?.result)
+// Tương đương:
+// if (data && data.result)
+```
+→ Tránh error nếu `data` null/undefined
+
+**② Object.assign():**
+```javascript
+Object.assign(target, source)
+```
+→ Merge properties từ `source` vào `target`
+
+**③ Patch 2 lớp:**
+```javascript
+data.result.user   // Nested object
+data.result        // Root object
+```
+→ Đảm bảo patch cả 2 (API có thể trả khác format)
+
+**④ Timestamp 2524608000:**
+```javascript
+new Date(2524608000 * 1000)
+// → "Thu Jan 01 2050 00:00:00"
+```
+→ VIP expire năm 2050 (còn 25 năm!)
+
+**⑤ Return data:**
+→ Function pure → Return modified data → Không side effects
+
+---
+
+#### 🎯 Phần 5: Hook fetch() API
+
+```javascript
+const realFetch = window.fetch;  // Lưu fetch() gốc
+
+window.fetch = async function (input, init) {
+  // ① Extract URL
+  const url = typeof input === "string" ? input : input.url;
+  
+  // ② Call fetch() gốc
+  const res = await realFetch.apply(this, arguments);
+  
+  // ③ Handle response
+  return handleJsonResponse(res, url);
 };
 ```
 
 **Giải thích:**
-- `XMLHttpRequest.prototype.open` = function gốc của browser
-- Ta override (ghi đè) function này
-- Mục đích: Lưu URL của mỗi request
-- `this._url = url` → Lưu vào object để check sau
-- `open.apply(this, arguments)` → Gọi function gốc (request vẫn được gửi bình thường)
 
-**Tại sao cần làm vậy?**
-- Website gọi rất nhiều API khác nhau
-- Ta chỉ muốn sửa API `/v1/user/info`
-- Phải lưu URL mỗi request để check
+**① Extract URL:**
+```javascript
+// fetch() có 2 cách gọi:
+fetch("https://api.com/data")           // String
+fetch(new Request("https://api.com"))   // Request object
+
+// Phải handle cả 2:
+typeof input === "string" ? input : input.url
+```
+
+**② Call gốc:**
+```javascript
+realFetch.apply(this, arguments)
+```
+→ Gọi fetch() gốc với đúng context và params
+→ Website vẫn nhận response bình thường
+
+**③ Handle response:**
+```javascript
+async function handleJsonResponse(res, url) {
+  if (!isTarget(url)) return res;  // Không phải target → Return nguyên
+  
+  try {
+    const clone = res.clone();  // Clone response (QUAN TRỌNG!)
+    
+    if ((clone.headers.get("content-type") || "").includes("application/json")) {
+      const data = await clone.json();
+      const patched = patchUserInfo(data);
+      
+      // Tạo Response mới với data đã patch
+      return new Response(JSON.stringify(patched), {
+        status: res.status,
+        statusText: res.statusText,
+        headers: res.headers,
+      });
+    }
+  } catch (_) {}
+  
+  return res;  // Fallback return original
+}
+```
+
+**Tại sao phải clone()?**
+```javascript
+// Response body chỉ đọc được 1 lần!
+const data1 = await res.json();
+const data2 = await res.json();  // ❌ Error: Already read
+
+// Solution: Clone trước khi read
+const clone = res.clone();
+const data = await clone.json();  // ✅ OK
+// Original res vẫn còn nguyên
+```
+
+**Flow:**
+```
+1. Website: fetch("/v1/user/info")
+2. Script intercept → Call realFetch()
+3. Server response → Script nhận
+4. Clone response
+5. Parse JSON
+6. Patch: is_vip = true
+7. Create new Response
+8. Return → Website nhận fake data
+```
 
 ---
 
-#### 🔧 Phần 2: Hook XMLHttpRequest.send()
+#### 🎯 Phần 6: Hook XMLHttpRequest
 
 ```javascript
-// Lưu function gốc
-const send = XMLHttpRequest.prototype.send;
+const RealXHR = window.XMLHttpRequest;  // Lưu XHR gốc
 
-// Override function send()
-XMLHttpRequest.prototype.send = function () {
+window.XMLHttpRequest = function () {
+  const xhr = new RealXHR();  // Create XHR instance gốc
+  let targetUrl = "";
   
-  // Thêm event listener khi nhận response
-  this.addEventListener("load", function () {
-    try {
-      // ① Check URL có phải API user info không
-      if (this._url.includes("/v1/user/info")) {
-        
-        // ② Parse JSON response từ server
-        let data = JSON.parse(this.responseText);
-        
-        // ③ Sửa đổi data
-        data.result.is_vip = true;  // FALSE → TRUE
-        data.result.role = "vip";   // "user" → "vip"
-        data.result.vip_expires_at = Date.now() + 315360000000; // +10 năm
-        data.result.coin_balance = 999999999; // 0 → 999M
-        
-        // ④ Override property responseText
-        Object.defineProperty(this, "responseText", {
-          value: JSON.stringify(data), // Ghi đè response
-          writable: false  // Không cho sửa lại
-        });
-        
-        // ⑤ Override property response
-        Object.defineProperty(this, "response", {
-          value: JSON.stringify(data),
-          writable: false
-        });
+  // Hook open()
+  const origOpen = xhr.open;
+  xhr.open = function (method, url, async, user, pass) {
+    targetUrl = url;  // Lưu URL
+    return origOpen.apply(this, arguments);
+  };
+  
+  // Hook send()
+  const origSend = xhr.send;
+  xhr.send = function () {
+    this.addEventListener("load", function () {
+      if (isTarget(targetUrl)) {
+        try {
+          const data = JSON.parse(xhr.responseText);
+          const patched = patchUserInfo(data);
+          
+          // Override responseText property
+          Object.defineProperty(xhr, "responseText", {
+            writable: true,
+            value: JSON.stringify(patched),
+          });
+          
+          Object.defineProperty(xhr, "response", {
+            writable: true,
+            value: JSON.stringify(patched),
+          });
+        } catch (_) {}
       }
-    } catch (e) {
-      console.error("Bypass error:", e);
-    }
-  });
+    });
+    
+    return origSend.apply(this, arguments);
+  };
   
-  // Gọi function gốc (gửi request bình thường)
-  return send.apply(this, arguments);
+  return xhr;  // Return modified XHR
 };
 ```
 
-**Giải thích từng bước:**
+**Giải thích:**
 
-**① Check URL:**
+**① Constructor Hook:**
 ```javascript
-if (this._url.includes("/v1/user/info"))
+window.XMLHttpRequest = function () {
+  const xhr = new RealXHR();
+  // Modify xhr
+  return xhr;
+};
 ```
-- Check URL có chứa `/v1/user/info` không
-- Đây là API trả thông tin user (bao gồm VIP status)
-- Chỉ sửa API này, các API khác không động
+→ Mỗi lần `new XMLHttpRequest()` → Run function này
+→ Return modified instance
 
-**② Parse JSON:**
+**② Open Hook:**
 ```javascript
-let data = JSON.parse(this.responseText);
+xhr.open = function (method, url, ...) {
+  targetUrl = url;  // Save URL
+  return origOpen.apply(this, arguments);
+};
 ```
-- `this.responseText` = response từ server (dạng string JSON)
-- Parse thành object để sửa
-- Ví dụ response gốc:
-```json
-{
-  "status": "success",
-  "result": {
-    "id": 123,
-    "username": "user",
-    "is_vip": false,     ← Cần sửa
-    "coin_balance": 0    ← Cần sửa
-  }
-}
-```
+→ Lưu URL để check sau
+→ Vẫn call open() gốc
 
-**③ Modify Data:**
+**③ Send Hook:**
 ```javascript
-data.result.is_vip = true;
-data.result.coin_balance = 999999999;
+xhr.send = function () {
+  this.addEventListener("load", () => {
+    // Patch response
+  });
+  return origSend.apply(this, arguments);
+};
 ```
-- Sửa trực tiếp object
-- `false` → `true`
-- `0` → `999999999`
+→ Thêm listener "load" (khi có response)
+→ Vẫn call send() gốc
 
-**④ Override responseText:**
+**④ Override Property:**
 ```javascript
-Object.defineProperty(this, "responseText", {
-  value: JSON.stringify(data),
-  writable: false
+Object.defineProperty(xhr, "responseText", {
+  writable: true,
+  value: JSON.stringify(patched),
 });
 ```
-- `Object.defineProperty()` = Định nghĩa lại property
-- Ghi đè `responseText` với data đã sửa
-- `writable: false` → Không cho code khác sửa lại
+→ Ghi đè property của xhr object
+→ Website đọc `xhr.responseText` → Nhận fake data
+
+**Flow:**
+```
+1. Website: new XMLHttpRequest()
+   → Script return modified XHR
+
+2. Website: xhr.open("GET", "/v1/user/info")
+   → Script save URL
+
+3. Website: xhr.send()
+   → Script add "load" listener
+   → Call original send()
+
+4. Server response
+   → "load" event fire
+   → Script parse JSON
+   → Patch data
+   → Override responseText
+
+5. Website: xhr.responseText
+   → Read fake data → Show VIP!
+```
 
 ---
 
-### 📊 So Sánh Response
+## 🎨 CUSTOM THEME
 
-**Response GỐC từ Server:**
+### 🌈 Màu Sắc Theme
 
-```json
-{
-  "status": "success",
-  "result": {
-    "id": 12345,
-    "username": "john_doe",
-    "email": "john@example.com",
-    "is_vip": false,              ← ❌ Không phải VIP
-    "role": "user",               ← ❌ User thường
-    "coin_balance": 0,            ← ❌ Không có coin
-    "vip_expires_at": null,       ← ❌ Chưa có VIP
-    "avatar": "https://...",
-    "created_at": "2024-01-01T00:00:00Z"
-  }
-}
+Script tự động inject CSS theme **xanh lá** (#51f085):
+
+```css
+Primary Color:  #51f085  🟢 Xanh lá sáng
+Border Color:   #51f085  🟢
+Text Color:     #51f085  🟢
+Hover Color:    #51f085  🟢
 ```
 
-**Response SAU KHI Script Sửa:**
+### 🎯 Elements Được Custom
 
-```json
-{
-  "status": "success",
-  "result": {
-    "id": 12345,
-    "username": "john_doe",
-    "email": "john@example.com",
-    "is_vip": true,                      ← ✅ VIP active
-    "role": "vip",                       ← ✅ VIP role
-    "coin_balance": 999999999,           ← ✅ 999 triệu coin
-    "vip_expires_at": 1760563200000,     ← ✅ Expire năm 2035
-    "name": "Bypass User",               ← ✅ Thêm field
-    "avatar": "https://...",
-    "created_at": "2024-01-01T00:00:00Z"
+| Element | Before | After |
+|---------|--------|-------|
+| **Primary Buttons** | Màu đỏ/cam | 🟢 Xanh lá |
+| **IMDB Tags** | Viền vàng | 🟢 Viền xanh |
+| **Developer Badge** | Màu xanh dương | 🟢 Xanh lá |
+| **Links** | Màu default | 🟢 Xanh lá |
+| **Ads Box** | ✅ Hiển thị | ❌ **Ẩn** |
+
+### 💡 Custom Theme Riêng
+
+Muốn đổi màu khác? Rất dễ!
+
+<details>
+<summary><b>Click để xem hướng dẫn custom màu</b></summary>
+
+```javascript
+// Mở file core.js trong Tampermonkey
+// Tìm dòng:
+
+const css = `
+  :root {
+    --primary-color: #51f085 !important;  // ← Đổi màu này
+    --primary-text: #51f085 !important;   // ← Và này
   }
-}
+  ...
+`;
+
+// Ví dụ đổi sang màu xanh dương:
+--primary-color: #3b82f6 !important;  // Blue
+--primary-text: #3b82f6 !important;
+
+// Ví dụ đổi sang màu tím:
+--primary-color: #a855f7 !important;  // Purple
+--primary-text: #a855f7 !important;
+
+// Ví dụ đổi sang màu hồng:
+--primary-color: #ec4899 !important;  // Pink
+--primary-text: #ec4899 !important;
+
+// Save (Ctrl+S) → Reload trang → Màu mới apply!
 ```
 
-**Website nhận response giả → Hiển thị VIP!**
+**Palette gợi ý:**
+```
+🔴 Red:    #ef4444
+🟠 Orange: #f97316
+🟡 Yellow: #eab308
+🟢 Green:  #22c55e (Original: #51f085)
+🔵 Blue:   #3b82f6
+🟣 Purple: #a855f7
+🌸 Pink:   #ec4899
+```
+
+</details>
 
 ---
 
-## 🔧 TROUBLESHOOTING (SỬA LỖI)
+## 🔧 TROUBLESHOOTING
 
-### ❌ Lỗi 1: Script Không Chạy
+### ❌ Vấn Đề 1: Script Không Chạy
 
 **Triệu chứng:**
 ```
-- Icon Tampermonkey không có badge số "1"
-- Console không có log "Bypass activated"
-- VIP vẫn chưa active
+- Tampermonkey icon không có badge "1"
+- Theme vẫn màu cũ (không xanh lá)
+- Coin = 0
 ```
 
-**Nguyên nhân & Cách fix:**
+**Fix:**
 
 <details>
-<summary><b>🔍 Nguyên nhân 1: Script chưa enable</b></summary>
+<summary><b>🔍 Check 1: Script đã enable?</b></summary>
 
-```
-Check:
-   → Click icon Tampermonkey
-   → Xem danh sách scripts
-   → Script có icon ❌ đỏ → Chưa enable
+```bash
+1. Click icon Tampermonkey
+2. Xem danh sách scripts
+3. Script có icon ✅ xanh?
+   → ✅ Enabled → OK
+   → ❌ Đỏ → Click để enable
 
-Fix:
-   → Click vào script
-   → Click toggle để bật
-   → Icon chuyển thành ✅ xanh
-   → Reload trang (F5)
+4. Reload trang (F5)
+5. Check lại
 ```
+
 </details>
 
 <details>
-<summary><b>🔍 Nguyên nhân 2: Domain không match</b></summary>
+<summary><b>🔍 Check 2: Domain có match?</b></summary>
 
-```
-Check:
-   → Đang ở domain nào?
-   → rophim.com? → ❌ Sai! (phải .me/.mx/.li)
-   → rophim.net? → ❌ Sai!
+```bash
+# Script chỉ chạy trên:
+- www.rophim.li   ✅
+- www.rophim.me   ✅
+- www.rophim.mx   ✅
+- goatembed.com   ✅
 
-Fix:
-   → Vào đúng domain:
-     • www.rophim.me ✅
-     • www.rophim.mx ✅
-     • www.rophim.li ✅
+# KHÔNG chạy trên:
+- rophim.com      ❌ (thiếu .li/.me/.mx)
+- rophim.net      ❌
+- rophim.vn       ❌
+
+# Fix:
+→ Vào đúng domain .li/.me/.mx
+→ Hoặc thêm @match vào metadata:
+  // @match        *://rophim.com/*
 ```
+
 </details>
 
 <details>
-<summary><b>🔍 Nguyên nhân 3: Thiếu @run-at document-start</b></summary>
+<summary><b>🔍 Check 3: Có metadata header không?</b></summary>
 
+```javascript
+// Mở script trong Tampermonkey
+// Check đầu file PHẢI có:
+
+// ==UserScript==
+// @name         ...
+// @match        *://www.rophim.li/*
+// @run-at       document-start
+// @grant        none
+// ==/UserScript==
+
+// Nếu THIẾU header:
+→ Copy header từ tampermonkey.user.js
+→ Paste vào đầu file core.js
+→ Save → Reload
 ```
-Check:
-   → Mở script trong Tampermonkey
-   → Xem phần metadata (đầu file)
-   → Có dòng này không:
-     // @run-at       document-start
 
-Fix:
-   → Thêm dòng vào metadata:
-   
-   // ==UserScript==
-   // @name         Rophim VIP Bypass
-   // @version      1.2
-   // @match        *://www.rophim.me/*
-   // @run-at       document-start    ← Thêm dòng này
-   // @grant        none
-   // ==/UserScript==
-   
-   → Ctrl+S (Save)
-   → Reload trang
-```
-</details>
-
-<details>
-<summary><b>🔍 Nguyên nhân 4: Syntax error trong code</b></summary>
-
-```
-Check:
-   → F12 → Console
-   → Có lỗi đỏ không?
-   → "SyntaxError: ..." → Có lỗi cú pháp
-
-Fix:
-   → Xóa script hiện tại
-   → Copy lại code từ file gốc (deobfucated.js)
-   → Paste lại từ đầu
-   → Đảm bảo copy đủ (không thiếu ký tự)
-   → Save và reload
-```
 </details>
 
 ---
 
-### ❌ Lỗi 2: VIP Không Hiển Thị
+### ❌ Vấn Đề 2: VIP Không Hiển Thị
 
 **Triệu chứng:**
 ```
-- Script đã chạy (có badge "1")
-- Nhưng VIP vẫn chưa active
-- Coin vẫn = 0
+- Script đã chạy (badge "1")
+- Theme đã đổi màu xanh lá
+- Nhưng coin vẫn = 0
 ```
 
-**Nguyên nhân & Cách fix:**
+**Fix:**
 
 <details>
-<summary><b>🔍 Nguyên nhân 1: Chưa reload trang</b></summary>
+<summary><b>🔍 Solution 1: Reload trang</b></summary>
 
-```
-Problem:
-   → Script load sau khi API đã được gọi
-   → Response đã nhận trước khi script hook
+```bash
+# API /v1/user/info được call khi page load
+# Nếu script load muộn → Miss API call
+# Solution: Reload!
 
-Fix:
-   → Nhấn F5 (Reload)
-   → Hoặc Ctrl+Shift+R (Hard reload)
-   → API sẽ được gọi lại
-   → Script sẽ chặn lần này
+→ F5 (Normal reload)
+→ Hoặc Ctrl+Shift+R (Hard reload + clear cache)
+→ Check lại coin
 ```
+
 </details>
 
 <details>
-<summary><b>🔍 Nguyên nhân 2: Cache browser</b></summary>
+<summary><b>🔍 Solution 2: Clear cache</b></summary>
 
+```javascript
+// Mở Console (F12)
+// Gõ:
+
+localStorage.clear();
+sessionStorage.clear();
+
+// Enter → Reload (F5)
 ```
-Problem:
-   → Browser cache response cũ
-   → Không gọi API mới
 
-Fix Method 1: Clear cache thủ công
-   → F12 → Console
-   → Gõ: localStorage.clear()
-   → Enter
-   → Gõ: sessionStorage.clear()
-   → Enter
-   → F5 (Reload)
-
-Fix Method 2: Hard reload
-   → Ctrl+Shift+R (Windows/Linux)
-   → Cmd+Shift+R (Mac)
-
-Fix Method 3: Disable cache trong DevTools
-   → F12 → Network tab
-   → Tick "Disable cache"
-   → Reload
-```
 </details>
 
 <details>
-<summary><b>🔍 Nguyên nhân 3: API endpoint đã thay đổi</b></summary>
+<summary><b>🔍 Solution 3: Check API endpoint</b></summary>
 
+```bash
+# Có thể API đã đổi endpoint
+
+1. F12 → Network tab
+2. Reload trang
+3. Filter: "user"
+4. Tìm request user info
+5. Xem URL là gì?
+
+Nếu endpoint mới (vd: /v2/user/info):
+→ Mở script
+→ Thêm vào TARGETS:
+
+const TARGETS = [
+  "https://rophimapi.net/v1/user/info",
+  "https://rophimapi.net/v2/user/info",  // ← Thêm dòng này
+  ...
+];
+
+→ Save → Reload
 ```
-Check:
-   → F12 → Network tab
-   → Filter: "user"
-   → Reload trang
-   → Tìm request liên quan đến user info
-   → Xem URL là gì?
 
-Ví dụ:
-   - Nếu thấy: /v2/user/profile → Endpoint đã đổi!
-   - Nếu thấy: /api/user/me → Endpoint đã đổi!
-
-Fix:
-   → Mở script trong Tampermonkey
-   → Tìm dòng:
-     if (this._url.includes("/v1/user/info")) {
-   
-   → Đổi thành endpoint mới:
-     if (this._url.includes("/v2/user/profile")) {
-   
-   → Hoặc:
-     if (this._url.includes("/api/user/me")) {
-   
-   → Ctrl+S → Reload
-```
-</details>
-
-<details>
-<summary><b>🔍 Nguyên nhân 4: Response format đã thay đổi</b></summary>
-
-```
-Check:
-   → F12 → Network → Tìm user info request
-   → Click → Tab "Response"
-   → Xem cấu trúc JSON
-
-Ví dụ format cũ:
-{
-  "result": {
-    "is_vip": false
-  }
-}
-
-Ví dụ format mới:
-{
-  "data": {              ← "result" đổi thành "data"
-    "premium": false     ← "is_vip" đổi thành "premium"
-  }
-}
-
-Fix:
-   → Mở script
-   → Tìm:
-     data.result.is_vip = true;
-   
-   → Đổi thành:
-     data.data.premium = true;
-   
-   → Tương tự với các field khác
-   → Save → Reload
-```
 </details>
 
 ---
 
-### ❌ Lỗi 3: Coin Không Tăng
-
-**Cách debug:**
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 1: Check API Response                             │
-└─────────────────────────────────────────────────────────┘
-
-   → F12 → Network tab
-   → Filter: "user"
-   → Reload trang (F5)
-   → Tìm request "/v1/user/info"
-   → Click vào request đó
-   → Tab "Response"
-   → Xem JSON response:
-
-   {
-     "result": {
-       "coin_balance": ???  ← Xem số này
-     }
-   }
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 2: Phân tích                                      │
-└─────────────────────────────────────────────────────────┘
-
-   Nếu coin_balance = 999999999:
-      → Script ĐÃ sửa response thành công
-      → Nhưng website không hiển thị
-      → Có thể website validate server-side
-
-   Nếu coin_balance = 0:
-      → Script CHƯA sửa được
-      → Check lại endpoint có đúng không
-      → Check script có chạy không
-
-┌─────────────────────────────────────────────────────────┐
-│  BƯỚC 3: Fix                                            │
-└─────────────────────────────────────────────────────────┘
-
-   Solution 1: Thử số coin nhỏ hơn
-      → Mở script
-      → Tìm: data.result.coin_balance = 999999999;
-      → Đổi thành: data.result.coin_balance = 1000000;
-      → Save → Reload
-
-   Solution 2: Check field name
-      → Có thể không phải "coin_balance"
-      → Xem response gốc field tên gì:
-        • "coins" ?
-        • "balance" ?
-        • "credit" ?
-      → Sửa script cho đúng
-```
-
----
-
-### ❌ Lỗi 4: Website Bị Lỗi / Crash
+### ❌ Vấn Đề 3: Website Bị Lỗi
 
 **Triệu chứng:**
 ```
-- Trang không load
-- Console đầy lỗi đỏ
-- Website trắng xóa
+- Trang trắng xóa
+- Console đầy lỗi
+- Không load được
 ```
 
-**Fix nhanh:**
+**Fix:**
+
+<details>
+<summary><b>🔍 Quick Fix: Disable script</b></summary>
+
+```bash
+1. Click icon Tampermonkey
+2. Click script → Toggle OFF
+3. Reload trang (F5)
+
+Nếu trang load OK:
+→ Lỗi do script
+
+Nếu vẫn lỗi:
+→ Lỗi của website (không phải script)
+```
+
+</details>
+
+<details>
+<summary><b>🔍 Check Console errors</b></summary>
+
+```bash
+F12 → Console
+Xem lỗi gì?
+
+Common errors:
+
+❌ "Cannot read property 'result' of undefined"
+   → Response format đã đổi
+   → Fix: Update patchUserInfo() function
+
+❌ "Failed to fetch"
+   → Network error / CORS
+   → Không liên quan script
+   → Check internet connection
+
+❌ "Illegal invocation"
+   → Context binding sai
+   → Fix: Dùng .apply(this, arguments)
+```
+
+</details>
+
+---
+
+## ❓ FAQ
+
+### Q1: Script có an toàn không?
+
+**A:** ✅ **Code hoàn toàn clean & safe!**
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  STEP 1: Tắt Script Bypass                              │
-└─────────────────────────────────────────────────────────┘
+✅ Đã review từng dòng code (chỉ 120 dòng)
+✅ KHÔNG có:
+   • fetch() đến server lạ
+   • eval() / Function() constructor
+   • document.write()
+   • innerHTML injection
+   • Cookie stealing
+   • LocalStorage abuse
+   • Analytics/Tracking
 
-   → Click icon Tampermonkey
-   → Click vào script "Rophim VIP Bypass"
-   → Toggle OFF (disable)
-   → Reload trang (F5)
+✅ CHỈ có:
+   • Hook fetch() & XHR (local)
+   • Patch JSON response
+   • Inject CSS
    
-   → Nếu trang load OK → Lỗi do script
-   → Nếu vẫn lỗi → Lỗi của website
+→ Code 100% client-side
+→ Không gửi data đi đâu
+```
 
-┌─────────────────────────────────────────────────────────┐
-│  STEP 2: Check Conflict với Script Khác                │
-└─────────────────────────────────────────────────────────┘
+---
 
-   → Mở Tampermonkey Dashboard
-   → Xem có script nào khác chạy trên Rophim không?
-   → Nếu có → Disable hết script khác
-   → Chỉ enable script Bypass
-   → Reload → Test
+### Q2: Có bị ban không?
 
-┌─────────────────────────────────────────────────────────┐
-│  STEP 3: Check Console Error                           │
-└─────────────────────────────────────────────────────────┘
+**A:** ⚠️ **Rủi ro THẤP, nhưng có thể**
 
-   → F12 → Console
-   → Xem lỗi gì?
-   
-   Ví dụ lỗi thường gặp:
-   
-   ❌ "Cannot read property 'result' of undefined"
-      → Response không có field "result"
-      → Fix: Check response format
-   
-   ❌ "JSON.parse error"
-      → Response không phải JSON
-      → Fix: Thêm try-catch
-   
-   ❌ "Maximum call stack size exceeded"
-      → Infinite loop
-      → Fix: Check logic hook
+**Lý do an toàn:**
+```
+✅ Modify client-side only
+✅ Server không nhận data bất thường
+✅ Request/Response giống bình thường
+✅ Không có pattern đặc biệt
+```
 
-┌─────────────────────────────────────────────────────────┐
-│  STEP 4: Reinstall Script                              │
-└─────────────────────────────────────────────────────────┘
+**Rủi ro:**
+```
+⚠️ Coin = 999,999,999 (quá rõ ràng)
+⚠️ VIP expire năm 2050 (bất thường)
+⚠️ Server-side logging có thể detect
+⚠️ Behavior analysis (xem nhiều VIP content)
+```
 
-   → Xóa script hiện tại
-   → Tampermonkey Dashboard → Click "Remove"
-   → Confirm
-   → Cài lại từ đầu (copy code mới)
+**Cách giảm rủi ro:**
+```javascript
+// Đổi số coin nhỏ hơn trong core.js:
+
+// Thay vì:
+coin_balance: 999999999,
+
+// Dùng:
+coin_balance: 5000000,  // 5 triệu (tự nhiên hơn)
+```
+
+---
+
+### Q3: Mobile dùng được không?
+
+**A:** ✅ **CÓ - 100% OK!**
+
+**Android:**
+```
+✅ Kiwi Browser + Tampermonkey
+✅ Firefox Mobile + Tampermonkey
+✅ 100% tương tự PC
+```
+
+**iOS:**
+```
+✅ Safari + UserScripts app
+⚠️ Phức tạp hơn Android
+⚠️ Cần grant permissions đầy đủ
+```
+
+Xem hướng dẫn chi tiết ở [PHẦN 1: Chuẩn Bị](#-phần-1-chuẩn-bị)
+
+---
+
+### Q4: Tại sao tốt hơn version cũ?
+
+**A:** **Nhiều lý do!**
+
+| Feature | Version Cũ | Version Này |
+|---------|-----------|-------------|
+| Kích thước | 207 KB | **3 KB** ✅ |
+| Cần key | ✅ Yes | **❌ No** ✅ |
+| Hook fetch() | ❌ | **✅ Yes** ✅ |
+| Hook XHR | ✅ | **✅ Yes** |
+| Endpoints | 1 | **3** ✅ |
+| Custom CSS | ❌ | **✅ Yes** ✅ |
+| Modern code | ❌ | **✅ ES6+** ✅ |
+| Dễ đọc | ❌ | **✅ Very** ✅ |
+
+---
+
+### Q5: Làm sao update khi có version mới?
+
+**A:** **2 cách:**
+
+**Method 1: Auto-update (nếu dùng tampermonkey.user.js)**
+```bash
+# File có metadata:
+// @updateURL https://...
+
+→ Tampermonkey tự check update mỗi ngày
+→ Có update → Thông báo
+→ Click "Update" → Done
+```
+
+**Method 2: Manual**
+```bash
+1. Vào repo GitLab:
+   gitlab.com/tearrs/rophim-rox-userscript
+
+2. Check commit history
+   → Có update mới?
+
+3. Download core.js mới
+   → Copy code
+
+4. Tampermonkey → Open script
+   → Ctrl+A → Delete
+   → Paste code mới
+   → Save
+
+5. Reload rophim.li
    → Test
 ```
 
 ---
 
-## ❓ FAQ (CÂU HỎI THƯỜNG GẶP)
+### Q6: Có thể dùng cho site khác không?
 
-### 📌 Q1: File crack đã update mới nhất chưa?
+**A:** **CÓ - nhưng cần modify!**
 
-**A:** ✅ **ĐÃ UPDATE MỚI NHẤT!**
-
-```
-📊 THÔNG TIN FILE CRACK (rophim_vip.js)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Kích thước:   207,981 bytes (203 KB)
-MD5 Hash:     86d02be516a6cf10b5a2ef220d8998b9
-Last Update:  14/10/2025 18:24 GMT+7
-Commit:       "Update rophim_vip.js"
-Version:      1.2
-Status:       ✅ Latest version
-
-LỊCH SỬ CẬP NHẬT:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-14/10/2025  - Update rophim_vip.js (CURRENT) ✅
-12/09/2025  - Fix code
-12/09/2025  - Fix
-12/09/2025  - Initial upload
-
-→ So với repo gốc: IDENTICAL (100% giống)
-→ Bạn đang dùng: BẢN MỚI NHẤT ✅
-```
-
----
-
-### 📌 Q2: Sự khác biệt giữa `rophim_vip.js` và `deobfucated.js`?
-
-**A:** Cả 2 file **CÙNG CHỨC NĂNG** nhưng khác về format:
-
-| | rophim_vip.js | deobfucated.js |
-|---|---------------|----------------|
-| **Kích thước** | 207 KB | 19 KB |
-| **Số dòng** | 1 dòng | 642 dòng |
-| **Đọc được** | ❌ Không (obfuscated) | ✅ Có (clear code) |
-| **Cần key** | ✅ Yes | ❌ No |
-| **An toàn** | ⚠️ Không rõ (mã hóa) | ✅ Đã kiểm tra |
-| **Tùy chỉnh** | ❌ Rất khó | ✅ Dễ dàng |
-| **Khuyến nghị** | ⚠️ Không nên dùng | ✅ **Dùng cái này** |
-
-**Ví dụ code:**
-
-**rophim_vip.js** (Obfuscated):
 ```javascript
-가=(!![]+[])[0]+([]+{})[1]+(([]+[])[([]+{})[5]+([]+{})[1]+([][[]]+[])[1]...
-```
-→ Không đọc được, không biết làm gì
+// Để dùng cho site khác (vd: example.com):
 
-**deobfucated.js** (Clear):
-```javascript
-function initBypass() {
-  const open = XMLHttpRequest.prototype.open;
-  XMLHttpRequest.prototype.open = function (method, url) {
-    this._url = url;
-    return open.apply(this, arguments);
-  };
-  // ...
+// BƯỚC 1: Đổi TARGETS
+const TARGETS = [
+  "https://api.example.com/user/info",  // API endpoint của site
+];
+
+// BƯỚC 2: Đổi metadata @match
+// @match        *://www.example.com/*
+
+// BƯỚC 3: Đổi logic patch (nếu cần)
+function patchUserInfo(data) {
+  // Tùy format response của site
+  data.isPremium = true;
+  data.credits = 999999;
+  return data;
 }
-```
-→ Đọc rõ ràng, hiểu từng dòng
 
----
-
-### 📌 Q3: Có bị ban account không?
-
-**A:** ⚠️ **Có rủi ro, nhưng thấp**
-
-**Lý do an toàn:**
-```
-✅ Modify client-side (trình duyệt của bạn)
-✅ Server không nhận được data bất thường
-✅ Request/Response vẫn như bình thường
-✅ Không có pattern đặc biệt để detect
-```
-
-**Lý do có thể bị phát hiện:**
-```
-⚠️ Coin balance = 999,999,999 (quá rõ ràng)
-⚠️ VIP expire sau 10 năm (bất thường)
-⚠️ Server-side logging có thể detect
-⚠️ Behavior analysis (xem quá nhiều VIP content)
-```
-
-**Cách giảm rủi ro:**
-```
-1. Dùng số coin nhỏ hơn (5-10 triệu thay vì 999 triệu)
-2. Không khoe/spam
-3. Xem bình thường (không abuse)
-4. Dùng email phụ để test
-```
-
-**Nếu bị ban:**
-```
-→ Tạo account mới
-→ Dùng email khác
-→ Clear cookies/cache
+// BƯỚC 4: Save → Test trên site đó
 ```
 
 ---
 
-### 📌 Q4: Mobile có dùng được không?
-
-**A:** ✅ **CÓ** - nhưng phức tạp hơn PC
-
-**Android** (Khuyến nghị):
-
-```
-┌─────────────────────────────────────────────┐
-│  METHOD 1: Kiwi Browser (Dễ nhất)          │
-└─────────────────────────────────────────────┘
-
-BƯỚC 1: Cài Kiwi Browser
-   → Play Store → Tìm "Kiwi Browser"
-   → Install → Open
-
-BƯỚC 2: Cài Tampermonkey
-   → Trong Kiwi, vào:
-   → chrome.google.com/webstore
-   → Tìm "Tampermonkey"
-   → Add to Kiwi
-
-BƯỚC 3: Thêm Script
-   → Giống PC:
-     • Dashboard → Create script
-     • Copy code từ deobfucated.js
-     • Paste → Save
-
-BƯỚC 4: Sử Dụng
-   → Vào rophim.me trong Kiwi
-   → Script tự chạy
-   → ✅ VIP active!
-
-┌─────────────────────────────────────────────┐
-│  METHOD 2: Firefox Mobile                  │
-└─────────────────────────────────────────────┘
-
-   → Firefox hỗ trợ extensions
-   → Cài Firefox → Cài Tampermonkey
-   → Làm tương tự Kiwi
-```
-
-**iOS** (Khó hơn):
-
-```
-┌─────────────────────────────────────────────┐
-│  METHOD: UserScripts App                   │
-└─────────────────────────────────────────────┘
-
-BƯỚC 1: Cài UserScripts
-   → App Store → Tìm "UserScripts"
-   → Install → Cho phép permissions
-
-BƯỚC 2: Add Script
-   → Mở UserScripts app
-   → "+" → "Create New"
-   → Paste code từ deobfucated.js
-   → Save
-
-BƯỚC 3: Enable trong Safari
-   → Settings → Safari → Extensions
-   → Enable UserScripts
-   → Cho phép trên mọi websites
-
-BƯỚC 4: Sử Dụng
-   → Mở Safari → Vào rophim.me
-   → Icon UserScripts → Enable script
-   → Reload → ✅ VIP!
-```
-
----
-
-### 📌 Q5: Làm sao update khi có version mới?
-
-**A:** **Tự động** hoặc **thủ công**
-
-**Method 1: Auto-update (Nếu dùng file obfuscated + userscript)**
-
-```
-File tampermonkey.user.js có metadata:
-
-// @updateURL  https://raw.githubusercontent.com/.../tampermonkey.user.js
-
-→ Tampermonkey tự động check update mỗi ngày
-→ Nếu có version mới → Thông báo
-→ Click "Update" → Tự động cài
-```
-
-**Method 2: Manual update (Nếu dùng file deobfuscated)**
-
-```
-┌─────────────────────────────────────────────┐
-│  BƯỚC 1: Check Version Mới                  │
-└─────────────────────────────────────────────┘
-
-   → Vào repo GitHub
-   → Check commit history
-   → Xem có update mới không?
-
-┌─────────────────────────────────────────────┐
-│  BƯỚC 2: Download Code Mới                  │
-└─────────────────────────────────────────────┘
-
-   → git pull (nếu đã clone)
-   → Hoặc download ZIP mới
-
-┌─────────────────────────────────────────────┐
-│  BƯỚC 3: Replace Code                      │
-└─────────────────────────────────────────────┘
-
-   → Mở script trong Tampermonkey
-   → Ctrl+A (Select All)
-   → Delete
-   → Copy code mới từ file mới
-   → Paste
-   → Ctrl+S (Save)
-
-┌─────────────────────────────────────────────┐
-│  BƯỚC 4: Test                               │
-└─────────────────────────────────────────────┘
-
-   → Reload rophim.me
-   → Check VIP vẫn hoạt động
-   → ✅ Done!
-```
-
----
-
-### 📌 Q6: Tại sao có 20 hàm dummy trong code giải mã?
-
-**A:** Để **làm nhiễu** trong file obfuscated
-
-```
-File deobfucated.js có:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Dòng 1-360:   20 hàm DUMMY (giả)
-Dòng 361-642: Code THẬT
-
-20 hàm dummy:
-• authenticateUser()
-• connectDatabase()
-• processPayment()
-• sendEmail()
-• uploadFile()
-• ... (và 15 hàm khác)
-
-Đặc điểm hàm dummy:
-❌ KHÔNG được gọi
-❌ Code vô nghĩa (Math.random(), console.log(), ...)
-❌ Tên gây hiểu lầm (làm tưởng quan trọng)
-
-Mục đích:
-→ Trong file obfuscated (rophim_vip.js):
-  • Làm file lớn hơn (207KB)
-  • Gây nhiễu khi phân tích
-  • Tên hàm đánh lừa (tưởng là auth, payment...)
-  
-→ Trong file deobfuscated:
-  • Đã giữ lại để giống file gốc
-  • Nhưng đã comment rõ: "DUMMY FUNCTION"
-  • Có thể XÓA hết 20 hàm này → Script vẫn chạy OK
-```
-
-**Xóa dummy functions:**
-
-```javascript
-// Nếu muốn code gọn hơn:
-
-// XÓA từ dòng 1 đến dòng 360
-// GIỮ LẠI từ dòng 361 trở đi (phần core logic)
-
-// File sẽ nhẹ hơn: 642 dòng → ~280 dòng
-```
-
----
-
-### 📌 Q7: Script có hoạt động offline không?
+### Q7: Script có hoạt động offline không?
 
 **A:** ⚠️ **Một phần**
 
-**Hoạt động:**
 ```
-✅ Script đã cài → Vẫn chạy khi offline
-✅ Hook XMLHttpRequest → Vẫn hoạt động
-✅ Modify response → Vẫn OK
-```
+✅ Script đã cài → Vẫn chạy offline
+✅ Hook logic → Vẫn hoạt động
+✅ Patch response → OK
 
-**Không hoạt động:**
+❌ Cần internet để:
+   • Vào rophim.li
+   • Load trang web
+   • Stream phim
+   
+→ Script chỉ modify client-side
+→ Vẫn cần internet để dùng website
 ```
-❌ Không load được rophim.me (cần internet)
-❌ Không xem được phim (cần stream online)
-❌ Không verify key (nếu dùng version có key)
-```
-
-**Kết luận:**
-> Cần internet để:
-> 1. Vào website Rophim
-> 2. Xem phim (streaming)
-> 
-> Script chỉ modify data client-side, không cần internet để chạy logic bypass
 
 ---
 
-### 📌 Q8: Có thể thay đổi số coin không?
+### Q8: Có thể tắt Custom CSS không?
 
 **A:** ✅ **RẤT DỄ!**
 
 ```javascript
-┌─────────────────────────────────────────────┐
-│  BƯỚC 1: Mở Script                          │
-└─────────────────────────────────────────────┘
+// Mở core.js trong Tampermonkey
+// Tìm function injectCSSOnce()
 
-   → Tampermonkey Dashboard
-   → Click script "Rophim VIP Bypass"
-   → Vào edit mode
+// Cách 1: Comment toàn bộ function
+function injectCSSOnce() {
+  // if (cssInjected) return;
+  // cssInjected = true;
+  // const style = document.createElement("style");
+  // style.textContent = css;
+  // document.documentElement.appendChild(style);
+}
 
-┌─────────────────────────────────────────────┐
-│  BƯỚC 2: Tìm Dòng Set Coin                 │
-└─────────────────────────────────────────────┘
+// Cách 2: Return early
+function injectCSSOnce() {
+  return;  // ← Thêm dòng này
+  if (cssInjected) return;
+  ...
+}
 
-   → Ctrl+F → Tìm: "coin_balance"
-   → Sẽ thấy dòng:
-   
-   data.result.coin_balance = 999999999;
+// Cách 3: Xóa hẳn CSS
+const css = ``;  // ← Để trống
 
-┌─────────────────────────────────────────────┐
-│  BƯỚC 3: Đổi Số                             │
-└─────────────────────────────────────────────┘
-
-   Ví dụ:
-   
-   // Từ 999 triệu → 5 triệu (tự nhiên hơn)
-   data.result.coin_balance = 5000000;
-   
-   // Hoặc 10 triệu
-   data.result.coin_balance = 10000000;
-   
-   // Hoặc 100 nghìn (rất tự nhiên)
-   data.result.coin_balance = 100000;
-
-┌─────────────────────────────────────────────┐
-│  BƯỚC 4: Save & Test                       │
-└─────────────────────────────────────────────┘
-
-   → Ctrl+S (Save)
-   → Vào rophim.me
-   → F5 (Reload)
-   → Check coin balance
-   → ✅ Đã đổi thành số mới!
-```
-
-**💡 Khuyến nghị:**
-
-```
-Số coin hợp lý:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-100,000      - Rất tự nhiên ✅
-1,000,000    - Tự nhiên ✅
-5,000,000    - Ổn ✅
-10,000,000   - Hơi nhiều ⚠️
-100,000,000  - Đáng ngờ ⚠️
-999,999,999  - Quá rõ ràng ❌ (dễ bị detect)
+// Save → Reload
+→ ✅ Theme về default, VIP vẫn hoạt động!
 ```
 
 ---
 
-### 📌 Q9: Script có theo dõi/tracking không?
+### Q9: Có tracking/analytics không?
 
-**A:** ❌ **KHÔNG** (với file deobfuscated)
+**A:** ❌ **TUYỆT ĐỐI KHÔNG!**
 
-**File deobfuscated.js:**
-```
-✅ Code đã kiểm tra từng dòng
+```bash
+# Đã review toàn bộ 120 dòng code:
+
 ✅ KHÔNG có:
-   • fetch() đến server khác
-   • XMLHttpRequest đến domain lạ
-   • WebSocket connection
-   • localStorage/cookie tracking
-   • Analytics code
-   • Beacon/Tracking pixels
+   • Google Analytics
+   • fetch() đến domain khác
+   • XMLHttpRequest đến server lạ
+   • Beacon API
+   • WebSocket connections
+   • postMessage() ra ngoài
+   • Cookie tracking
+   • Fingerprinting
 
 ✅ CHỈ có:
-   • Hook XMLHttpRequest local
-   • Modify response JSON
-   • Basic UI (nếu cần nhập key)
-```
+   • Hook local fetch() & XHR
+   • Patch JSON response
+   • Inject CSS
 
-**File rophim_vip.js (obfuscated):**
-```
-⚠️ KHÔNG RÕ - vì code đã mã hóa
-⚠️ CÓ THỂ có tracking (không kiểm tra được)
-⚠️ Fetch key từ GitHub (có thể log IP)
-
-→ ĐÓ LÀ LÝ DO nên dùng file deobfuscated!
+→ 100% private
+→ Code chạy hoàn toàn local
+→ Không gửi data đi đâu cả
 ```
 
 ---
 
-### 📌 Q10: Làm sao biết script đang hoạt động?
+### Q10: Làm sao biết script đang hoạt động?
 
-**A:** **5 cách kiểm tra:**
+**A:** **5 cách check:**
 
-**Method 1: Check Tampermonkey Icon**
 ```
-   → Nhìn icon Tampermonkey (góc phải toolbar)
-   → Có badge "1" → ✅ Script đang chạy
-   → Không có số → ❌ Script không active
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Check Tampermonkey Icon
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Nhìn góc phải toolbar
+→ Icon TM có badge "1"
+→ ✅ Script đang chạy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. Check Theme Color
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Xem màu buttons
+→ Màu XANH LÁ (#51f085)
+→ ✅ CSS đã inject
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. Check Coin Balance
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Click avatar
+→ Xem coin
+→ 999,999,999
+→ ✅ Bypass thành công!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. Check Console
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ F12 → Console
+→ Không có lỗi đỏ
+→ ✅ Script OK
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. Check Network Response
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ F12 → Network → Reload
+→ Filter "user"
+→ Click user/info request
+→ Tab Response
+→ Xem JSON:
+  {
+    "is_vip": true,
+    "coin_balance": 999999999
+  }
+→ ✅ Response đã patch!
 ```
 
-**Method 2: Check Console Log**
-```
-   → F12 → Console
-   → Tìm message: "Rophim VIP Bypass activated"
-   → Thấy → ✅ Script đã khởi động
-```
+---
 
-**Method 3: Check Account Info**
-```
-   → Click avatar/username (góc phải)
-   → Xem Coin Balance
-   → Nếu = 999,999,999 → ✅ Script hoạt động
-   → Nếu = 0 → ❌ Chưa hoạt động
-```
+## 🆚 SO SÁNH VỚI PHIÊN BẢN CŨ
 
-**Method 4: Check Network Response**
-```
-   → F12 → Network tab
-   → Reload trang (F5)
-   → Filter: "user"
-   → Tìm request "/v1/user/info"
-   → Click → Tab "Response"
-   → Xem JSON:
-     {
-       "result": {
-         "is_vip": true  ← Nếu true → ✅ Script đã sửa
-       }
-     }
-```
+### 📊 Bảng So Sánh Chi Tiết
 
-**Method 5: Thử Xem Phim VIP**
-```
-   → Tìm phim có nhãn "VIP"
-   → Click vào
-   → Nếu xem được → ✅ Bypass thành công!
-   → Nếu bị chặn → ❌ Cần fix
-```
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>FireT (GitHub)<br>Version Cũ</th>
+<th>tearrs (GitLab)<br>Version Này ⭐</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><b>Kích thước</b></td>
+<td>207 KB (obfuscated)<br>19 KB (deobfuscated)</td>
+<td><b>3 KB</b> ✅<br>(Nhỏ hơn 69 lần!)</td>
+</tr>
+
+<tr>
+<td><b>Số dòng</b></td>
+<td>1 dòng (obfuscated)<br>642 dòng (deobfuscated)</td>
+<td><b>120 dòng</b> ✅<br>(Clean code)</td>
+</tr>
+
+<tr>
+<td><b>Cần key</b></td>
+<td>✅ Yes (key: "2025")</td>
+<td><b>❌ No</b> ✅<br>(Dùng ngay)</td>
+</tr>
+
+<tr>
+<td><b>Obfuscated</b></td>
+<td>✅ Heavy<br>(가=(!![]+[])[0]...)</td>
+<td><b>❌ No</b> ✅<br>(Code rõ ràng)</td>
+</tr>
+
+<tr>
+<td><b>Dummy functions</b></td>
+<td>✅ 20 hàm vô dụng</td>
+<td><b>❌ 0</b> ✅<br>(Không rác)</td>
+</tr>
+
+<tr>
+<td><b>Hook fetch()</b></td>
+<td>❌ No<br>(Miss modern APIs)</td>
+<td><b>✅ Yes</b> ✅<br>(Bắt mọi request)</td>
+</tr>
+
+<tr>
+<td><b>Hook XMLHttpRequest</b></td>
+<td>✅ Yes</td>
+<td><b>✅ Yes</b><br>(Dual support)</td>
+</tr>
+
+<tr>
+<td><b>API endpoints</b></td>
+<td>1 endpoint<br>(/v1/user/info)</td>
+<td><b>3 endpoints</b> ✅<br>(info + update + login)</td>
+</tr>
+
+<tr>
+<td><b>Custom CSS</b></td>
+<td>❌ No</td>
+<td><b>✅ Yes</b> ✅<br>(Theme xanh lá đẹp)</td>
+</tr>
+
+<tr>
+<td><b>Ẩn quảng cáo</b></td>
+<td>❌ No</td>
+<td><b>✅ Yes</b> ✅<br>(.app-box-fix hidden)</td>
+</tr>
+
+<tr>
+<td><b>Modern code</b></td>
+<td>❌ ES5 old style</td>
+<td><b>✅ ES6+</b> ✅<br>(async/await, arrow)</td>
+</tr>
+
+<tr>
+<td><b>Response cloning</b></td>
+<td>❌ No<br>(Có thể break app)</td>
+<td><b>✅ Yes</b> ✅<br>(Safe handling)</td>
+</tr>
+
+<tr>
+<td><b>Dễ đọc</b></td>
+<td>❌ Rất khó</td>
+<td><b>✅ Rất dễ</b> ✅</td>
+</tr>
+
+<tr>
+<td><b>Dễ sửa</b></td>
+<td>❌ Khó<br>(Obfuscated)</td>
+<td><b>✅ Rất dễ</b> ✅<br>(3KB clean code)</td>
+</tr>
+
+<tr>
+<td><b>Last update</b></td>
+<td>14/10/2025</td>
+<td><b>22/10/2025</b> ✅<br>(Mới hơn 8 ngày)</td>
+</tr>
+
+<tr>
+<td><b>Tổng điểm</b></td>
+<td>6/16 ⭐⭐⭐</td>
+<td><b>15/16 ⭐⭐⭐⭐⭐</b></td>
+</tr>
+
+</tbody>
+</table>
+
+### 🏆 Kết Luận
+
+**Version mới (tearrs) TỐT HƠN HOÀN TOÀN!**
+
+✅ Nhỏ gọn hơn 69 lần  
+✅ Không cần key  
+✅ Hook đầy đủ fetch() + XHR  
+✅ Custom theme đẹp  
+✅ Code hiện đại, dễ đọc, dễ sửa  
+✅ Cập nhật mới hơn  
 
 ---
 
@@ -1590,51 +1774,71 @@ Số coin hợp lý:
 ```
 bypass-rophim/
 │
-├── README.md                  📖 File này - Hướng dẫn đầy đủ
+├── README.md                  📖 File này - Hướng dẫn siêu chi tiết
+│   ├─ 1,200+ dòng content
+│   ├─ 10 sections
+│   ├─ FAQ đầy đủ
+│   └─ So sánh versions
 │
-├── rophim_vip.js             🔒 File crack GỐC (Obfuscated)
-│   ├─ Kích thước: 207,981 bytes
-│   ├─ Format: 1 dòng duy nhất
-│   ├─ Obfuscated: ✅ Yes
-│   ├─ Cần key: ✅ Yes (key: "2025")
-│   ├─ Last update: 14/10/2025
-│   └─ MD5: 86d02be516a6cf10b5a2ef220d8998b9
+├── core.js                    ⚡ CORE CODE (Main file)
+│   ├─ Kích thước: 3.1 KB
+│   ├─ Dòng: 120 dòng
+│   ├─ Hook fetch() API
+│   ├─ Hook XMLHttpRequest
+│   ├─ Patch 3 endpoints
+│   ├─ Custom CSS injection
+│   └─ Modern ES6+ code
 │
-├── deobfucated.js            🔓 File crack ĐÃ GIẢI MÃ
-│   ├─ Kích thước: 19,000 bytes
-│   ├─ Format: 642 dòng (dễ đọc)
-│   ├─ Obfuscated: ❌ No (clear code)
-│   ├─ Cần key: ❌ No
-│   ├─ Comments: ✅ Full
-│   └─ Khuyến nghị: ✅ Dùng file này
-│
-└── tampermonkey.user.js      🔧 Userscript metadata
-    ├─ Kích thước: 869 bytes
-    ├─ Version: 1.2
-    ├─ Load: rophim_vip.js từ GitHub
-    └─ Auto-update: ✅ Yes
+└── tampermonkey.user.js       🔧 Userscript Metadata
+    ├─ Kích thước: 882 bytes
+    ├─ @require core.js
+    ├─ @match domains
+    ├─ @run-at document-start
+    └─ Auto-update URLs
 ```
+
+---
+
+## 📜 CHANGELOG
+
+### Version 1.3 (Current) - Nov 2025
+
+**✨ Major Update - Chuyển sang code mới!**
+
+- ✅ **Thay code hoàn toàn** từ FireT → tearrs (GitLab)
+- ✅ **Giảm kích thước** 207KB → 3KB (nhẹ hơn 69 lần!)
+- ✅ **Bỏ key** - Không cần key "2025" nữa
+- ✅ **Hook fetch()** - Bắt được modern API calls
+- ✅ **Hook 3 endpoints** - /info, /updateProfile, /login
+- ✅ **Custom CSS** - Theme xanh lá (#51f085)
+- ✅ **Ẩn ads** - .app-box-fix display: none
+- ✅ **Modern ES6+** - async/await, arrow functions
+- ✅ **README mới** - 1,200+ dòng siêu chi tiết
+
+### Version 1.2 - Oct 2025
+
+- FireT version (obfuscated + key required)
 
 ---
 
 ## ⚖️ DISCLAIMER
 
-### ⚠️ Lưu Ý Quan Trọng
-
 <div align="center">
 
-> **🎓 Educational Purpose Only**  
+> **🎓 For Educational Purposes Only**  
 > **Chỉ để học tập & nghiên cứu kỹ thuật**
 
 </div>
 
+### ⚠️ Lưu Ý Quan Trọng
+
 **Mục đích hợp pháp:**
 ```
-✅ Học lập trình JavaScript
-✅ Hiểu cách web API hoạt động
-✅ Nghiên cứu XMLHttpRequest hooking
-✅ Phân tích kỹ thuật obfuscation
+✅ Học JavaScript
+✅ Hiểu fetch() & XHR API
+✅ Nghiên cứu Response modification
 ✅ Security research
+✅ Technical education
 ```
 
 **KHÔNG khuyến khích:**
@@ -1647,7 +1851,7 @@ bypass-rophim/
 
 **Rủi ro:**
 ```
-⚠️ Ban account
+⚠️ Có thể bị ban account
 ⚠️ Vi phạm ToS của Rophim
 ⚠️ Rủi ro pháp lý (nếu bị truy cứu)
 ⚠️ Ảnh hưởng đến dịch vụ
@@ -1658,36 +1862,46 @@ bypass-rophim/
 → Bạn tự chịu trách nhiệm khi sử dụng
 → Tác giả không chịu trách nhiệm về hậu quả
 → Sử dụng có trách nhiệm
-→ Nếu thích nội dung → Hãy trả phí để support!
+→ Nếu thích → Hãy mua VIP chính thức để support!
 ```
 
 ---
 
 ## 🙏 CREDITS
 
-- **FireT** ([@firetofficial](https://github.com/firetofficial)) - Original bypass code
-- **Community** - Deobfuscation & analysis
-- **Tampermonkey** - Userscript manager
+- **tearrs** ([@tearrs](https://gitlab.com/tearrs)) - Original modern code
+- **FireT** ([@firetofficial](https://github.com/firetofficial)) - Original bypass concept
+- **Community** - Testing & feedback
+- **Tampermonkey** - Best userscript manager
 
 ---
 
 <div align="center">
 
-## ⭐ Nếu hữu ích, cho repo một sao! ⭐
+## ⭐ Nếu Hữu Ích, Cho Repo Một Sao! ⭐
 
-**Last Updated:** 14/10/2025  
-**Version:** 1.2  
-**Status:** ✅ Working
-
----
-
-### 📧 Support
-
-**Issues?** [Create an issue](https://github.com/yourusername/repo/issues)  
-**Questions?** Read FAQ above ↑
+**Last Updated:** November 2025  
+**Version:** 1.3  
+**Status:** ✅ Working  
+**Code:** tearrs (GitLab)  
 
 ---
 
-**🌟 Support creators - Nếu thích Rophim, hãy mua VIP chính thức! 🌟**
+### 📧 Support & Issues
+
+**Problems?** Check [Troubleshooting](#-troubleshooting) & [FAQ](#-faq)  
+**Still stuck?** [Create an issue](https://github.com/yourusername/repo/issues)  
+
+---
+
+**🌟 Support Creators!**  
+**Nếu thích Rophim → Mua VIP chính thức để ủng hộ! 🌟**
+
+---
+
+**Made with ❤️ by Community**
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/bypass-rophim)
+[![GitLab](https://img.shields.io/badge/GitLab-Original-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/tearrs/rophim-rox-userscript)
 
 </div>

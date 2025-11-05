@@ -1,17 +1,19 @@
 // ==UserScript==
-// @name         Rophim Full VIP
+// @name         Rophim Rox - VIP Bypass
 // @namespace    http://tampermonkey.net/
-// @version      1.2
-// @description  Bypass VIP + Coin trên Rophim
-// @author       FireT
-// @require      https://raw.githubusercontent.com/firetofficial/bypass-rophim-vip/refs/heads/main/rophim_vip.js
-// @homepageURL   https://github.com/firetofficial/bypass-rophim-vip
-// @downloadURL   https://raw.githubusercontent.com/firetofficial/bypass-rophim-vip/refs/heads/main/tampermonkey.user.js
-// @updateURL     https://raw.githubusercontent.com/firetofficial/bypass-rophim-vip/refs/heads/main/tampermonkey.user.js
+// @version      1.3
+// @description  Mở khóa VIP Rophim + 999M Coin - No Key Required
+// @author       tearrs (Modified)
+// @require      https://cdn.jsdelivr.net/gh/yourusername/bypass-rophim@main/core.js
+// @match        *://www.rophim.li/*
 // @match        *://www.rophim.me/*
 // @match        *://www.rophim.mx/*
-// @match        *://www.rophim.li/*
+// @match        *://goatembed.com/*
 // @run-at       document-start
 // @grant        none
-// @icon         https://avatars.githubusercontent.com/u/120646974?s=48&v=4
+// @license      MIT
+// @icon         https://www.rophim.li/images/favicon.ico
+// @homepageURL  https://github.com/yourusername/bypass-rophim
+// @downloadURL  https://raw.githubusercontent.com/yourusername/bypass-rophim/main/tampermonkey.user.js
+// @updateURL    https://raw.githubusercontent.com/yourusername/bypass-rophim/main/tampermonkey.user.js
 // ==/UserScript==
