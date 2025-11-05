@@ -10,6 +10,47 @@
 > **✅ 8 API endpoints - Proven Logic**  
 > **✅ Based on tearrs - Clean & Simple**
 
+---
+
+## 🚀 CÀI ĐẶT TỰ ĐỘNG - 1 CLICK
+
+### ⭐ BƯỚC 1: Cài Tampermonkey (Nếu chưa có)
+
+<div align="center">
+
+[![Cài Tampermonkey](https://img.shields.io/badge/🔧_Cài_Tampermonkey-Chrome_Web_Store-success?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi)
+
+**Click vào nút trên → "Thêm vào Chrome" → Xong!**
+
+</div>
+
+### ⭐ BƯỚC 2: Cài Script VIP Bypass
+
+<div align="center">
+
+[![Cài Script](https://img.shields.io/badge/⚡_Cài_Script_VIP_Bypass-1_Click_Install-brightgreen?style=for-the-badge&logo=javascript)](https://github.com/z3rokaze/bypass-rophim/raw/refs/heads/main/tampermonkey.user.js)
+
+**Click vào nút trên → Popup Tampermonkey hiện ra → Click "Install" → Xong!**
+
+</div>
+
+### ⭐ BƯỚC 3: Sử Dụng
+
+```
+1. Vào www.rophim.li
+2. Đăng nhập tài khoản
+3. F5 (Reload trang)
+4. ✅ VIP Active + 999,999,999 Coin!
+```
+
+<div align="center">
+
+**🎉 Chỉ cần 3 bước - Hoàn thành trong 1 phút! 🎉**
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🚀 VIP Trọn Đời + 999 Triệu Coin + Advanced Features
