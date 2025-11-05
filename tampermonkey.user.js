@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Rophim Rox - VIP Bypass
+// @name         Rophim VIP Bypass v2.0 Advanced
 // @namespace    http://tampermonkey.net/
-// @version      1.3
-// @description  Mở khóa VIP Rophim + 999M Coin - No Key Required
-// @author       tearrs (Modified)
+// @version      2.0
+// @description  VIP đến 2099 + 999M Coin + 16 Endpoints + Debug Mode + Cache + Stealth
+// @author       Community (Advanced)
 // @require      https://cdn.jsdelivr.net/gh/yourusername/bypass-rophim@main/core.js
 // @match        *://www.rophim.li/*
 // @match        *://www.rophim.me/*
@@ -17,3 +17,27 @@
 // @downloadURL  https://raw.githubusercontent.com/yourusername/bypass-rophim/main/tampermonkey.user.js
 // @updateURL    https://raw.githubusercontent.com/yourusername/bypass-rophim/main/tampermonkey.user.js
 // ==/UserScript==
+
+// ═══════════════════════════════════════════════════════════════
+// 🎬 Rophim VIP Bypass v2.0 Advanced
+// ═══════════════════════════════════════════════════════════════
+//
+// Features:
+//  ✅ VIP đến 18/07/2099 (49 năm!)
+//  ✅ 999,999,999 Coin
+//  ✅ 16 API endpoints hooked
+//  ✅ Stealth mode (Anti-detection)
+//  ✅ Debug mode (Console control)
+//  ✅ Cache system (Performance boost)
+//  ✅ Custom theme với animations
+//  ✅ No key required
+//
+// Console Commands:
+//  • RophimBypass.info() - Xem help
+//  • RophimBypass.enableDebug() - Bật debug
+//  • RophimBypass.setThemeColor('#color') - Đổi màu
+//  • RophimBypass.clearCache() - Xóa cache
+//  • RophimBypass.getStats() - Xem stats
+//
+// Educational Purpose Only - Use Responsibly
+// ═══════════════════════════════════════════════════════════════
