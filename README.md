@@ -6,7 +6,7 @@
 ![No Key](https://img.shields.io/badge/No%20Key-Required-green?style=for-the-badge)
 
 > **⚡ Version Stable - Đơn Giản & Ổn Định!**  
-> **✅ VIP đến 18/07/2099 (49 năm!)**  
+> **✅ VIP đến 18/07/2099 **  
 > **✅ 8 API endpoints - Proven Logic**  
 > **✅ Based on tearrs - Clean & Simple**
 
