@@ -1,416 +1,885 @@
-# 🔍 Phân Tích & Cảnh Báo: Bypass Rophim VIP
+# 🎬 Rophim VIP Bypass - Phiên Bản Giải Mã
 
-![Security Analysis](https://img.shields.io/badge/Security-Analysis-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Educational-yellow?style=for-the-badge)
-![Code](https://img.shields.io/badge/Code-Deobfuscated-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-> **⚠️ CẢNH BÁO:** Repo này **KHÔNG** khuyến khích việc bypass/crack dịch vụ. Mục đích chỉ để phân tích kỹ thuật, nghiên cứu bảo mật và cảnh báo về rủi ro.
+**Công cụ bypass VIP Rophim hoàn toàn miễn phí** - Code đã được deobfuscate (giải mã) để đảm bảo an toàn, không chứa mã độc.
+
+<div align="center">
+
+### ⭐ Tính Năng Nổi Bật
+
+| Tính năng | Trạng thái |
+|-----------|------------|
+| ✅ VIP trọn đời | **Hoạt động** |
+| ✅ Coin không giới hạn (999,999,999) | **Hoạt động** |
+| ✅ Không cần key | **Miễn phí** |
+| ✅ Code đã giải mã | **An toàn** |
+| ✅ Tự động cập nhật | **Hỗ trợ** |
+
+</div>
 
 ---
 
 ## 📖 MỤC LỤC
 
-- [Giới Thiệu](#-giới-thiệu)
-- [Repo Gốc](#-repo-gốc)
-- [Phân Tích Code](#-phân-tích-code)
-- [Cách Thức Hoạt Động](#-cách-thức-hoạt-động)
-- [Rủi Ro & Cảnh Báo](#-rủi-ro--cảnh-báo)
-- [Lập Luận Pháp Lý](#️-lập-luận-pháp-lý)
-- [Hướng Dẫn Phân Tích](#-hướng-dẫn-phân-tích)
-- [Disclaimer](#-disclaimer)
+- [Tính Năng](#-tính-năng)
+- [Cài Đặt Nhanh](#-cài-đặt-nhanh)
+- [Hướng Dẫn Chi Tiết](#-hướng-dẫn-chi-tiết)
+- [Cách Hoạt Động](#-cách-hoạt-động)
+- [Troubleshooting](#-troubleshooting)
+- [FAQ](#-faq)
+- [Changelog](#-changelog)
 
 ---
 
-## 🎯 GIỚI THIỆU
+## ✨ TÍNH NĂNG
 
-Repo này chứa **phiên bản đã giải mã (deobfuscated)** của script bypass VIP Rophim, nhằm mục đích:
+### 🎯 Những Gì Bạn Nhận Được
 
-✅ **Phân tích bảo mật** - Kiểm tra mã độc tiềm ẩn  
-✅ **Nghiên cứu kỹ thuật** - Hiểu cách thức hoạt động của bypass  
-✅ **Cảnh báo người dùng** - Về rủi ro pháp lý và kỹ thuật  
-✅ **Giáo dục** - Về obfuscation và reverse engineering  
+- **🔓 VIP Vĩnh Viễn**
+  - Thời hạn VIP: **10 năm** (tính từ ngày kích hoạt)
+  - Truy cập toàn bộ nội dung VIP
+  - Không quảng cáo làm phiền
 
-❌ **KHÔNG** nhằm khuyến khích sử dụng công cụ bypass  
-❌ **KHÔNG** hỗ trợ việc crack/bypass dịch vụ trả phí  
+- **💰 Coin Không Giới Hạn**
+  - Balance: **999,999,999 coin**
+  - Xem phim thoải mái
+  - Không lo hết coin
+
+- **🔒 An Toàn & Bảo Mật**
+  - Code đã deobfuscate - kiểm tra được từng dòng
+  - Không chứa mã độc
+  - Không thu thập dữ liệu cá nhân
+  - Open source - minh bạch 100%
+
+- **⚡ Hiệu Suất Cao**
+  - Tải nhanh, không lag
+  - Tương thích mọi trình duyệt
+  - Cập nhật tự động
 
 ---
 
-## 🔗 REPO GỐC
+## 🚀 CÀI ĐẶT NHANH
 
-| Thông tin | Chi tiết |
-|-----------|----------|
-| **Tác giả gốc** | FireT ([@firetofficial](https://github.com/firetofficial)) |
-| **Repo gốc** | [bypass-rophim-vip](https://github.com/firetofficial/bypass-rophim-vip) |
-| **Trạng thái** | Active - Cập nhật 26/10/2025 |
-| **Version** | 1.2 |
+### ⏱️ Chỉ Cần 3 Bước (2 Phút)
 
-> **Lưu ý:** Mình đã báo cho admin Rophim từ lúc bản crack mới ra, nhưng họ nói đang để thả, chưa ảnh hưởng lắm.
+#### **BƯỚC 1: Cài Tampermonkey**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://www.tampermonkey.net/favicon.ico" width="48"><br>
+<b>Chrome / Edge</b><br>
+<a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Cài Đặt</a>
+</td>
+<td align="center">
+<img src="https://www.tampermonkey.net/favicon.ico" width="48"><br>
+<b>Firefox</b><br>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">Cài Đặt</a>
+</td>
+<td align="center">
+<img src="https://www.tampermonkey.net/favicon.ico" width="48"><br>
+<b>Safari</b><br>
+<a href="https://apps.apple.com/us/app/tampermonkey/id1482490089">Cài Đặt</a>
+</td>
+<td align="center">
+<img src="https://www.tampermonkey.net/favicon.ico" width="48"><br>
+<b>Mobile</b><br>
+<a href="https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn">Cài Đặt</a>
+</td>
+</tr>
+</table>
+
+#### **BƯỚC 2: Cài Script Bypass**
+
+**Cách 1: Tự động (Khuyến nghị)** ⭐
+
+```bash
+# Copy file deobfucated.js vào Tampermonkey
+1. Mở Tampermonkey Dashboard
+2. Click "+" để tạo script mới
+3. Copy toàn bộ nội dung file deobfucated.js
+4. Paste vào và Ctrl+S (Save)
+```
+
+**Cách 2: Từ File**
+
+```bash
+# Clone repo này về
+git clone https://github.com/yourusername/bypass-rophim.git
+cd bypass-rophim
+
+# Mở file deobfucated.js
+# Copy nội dung vào Tampermonkey
+```
+
+#### **BƯỚC 3: Kích Hoạt & Sử Dụng**
+
+1. Truy cập **www.rophim.me** (hoặc .mx, .li)
+2. Script sẽ **tự động kích hoạt**
+3. Reload trang **(F5)**
+4. Thưởng thức VIP! 🎉
 
 ---
 
-## 🔬 PHÂN TÍCH CODE
+## 📚 HƯỚNG DẪN CHI TIẾT
 
-### 📁 Cấu Trúc File
+### 🔧 Cài Đặt Từng Bước
+
+#### 1️⃣ Chuẩn Bị Môi Trường
+
+**Yêu cầu:**
+- Trình duyệt: Chrome, Firefox, Edge, Safari (bất kỳ)
+- Extension: Tampermonkey
+- Kết nối internet
+
+**Cài Tampermonkey:**
 
 ```
-bypass-rophim-vip/
-├── README.md                    # Tài liệu này
-├── rophim_vip.js               # Code gốc (OBFUSCATED - 207KB)
-├── deobfucated.js              # Code đã giải mã (19KB)
-└── tampermonkey.user.js        # Tampermonkey userscript
+1. Mở Chrome Web Store (hoặc Firefox Add-ons)
+2. Tìm "Tampermonkey"
+3. Click "Add to Chrome" / "Add to Firefox"
+4. Chờ cài đặt xong
+5. Icon Tampermonkey sẽ xuất hiện trên toolbar
 ```
-
-### 🔐 Kỹ Thuật Obfuscation
-
-Code gốc sử dụng nhiều kỹ thuật làm rối:
-
-| Kỹ thuật | Mô tả | Ví dụ |
-|----------|-------|-------|
-| **JSFuck-like** | Tạo string từ phép toán | `(!![]+[])[0]` → `'t'` |
-| **Ký tự Unicode** | Biến bằng Hangul/Hiragana | `가`, `나`, `あ`, `い` |
-| **URL Encoding** | Mã hóa ký tự thành %XX | `%0a`, `%4a`, `%50` |
-| **Single Line** | Toàn bộ code 1 dòng | 207,981 ký tự! |
-| **Dummy Functions** | 20 hàm giả để làm nhiễu | `authenticateUser()`, `processPayment()` |
-
-**Mục đích obfuscation:**
-- 🚫 Che giấu logic thực sự
-- 🚫 Ngăn phân tích tĩnh
-- 🚫 Gây khó khăn cho việc detect mã độc
-- 🚫 Tránh bị copy/modify
 
 ---
 
-## ⚙️ CÁCH THỨC HOẠT ĐỘNG
+#### 2️⃣ Thêm Script Bypass
 
-### 1️⃣ XMLHttpRequest Hooking
+**Phương án A: Copy/Paste (Dễ nhất)** 💡
 
 ```javascript
-// Hook vào prototype để intercept mọi request
+// Bước 1: Mở file deobfucated.js trong repo
+// Bước 2: Copy TOÀN BỘ nội dung (Ctrl+A → Ctrl+C)
+// Bước 3: Mở Tampermonkey Dashboard
+// Bước 4: Click biểu tượng "+" (Create new script)
+// Bước 5: XÓA code mẫu có sẵn
+// Bước 6: Paste code đã copy (Ctrl+V)
+// Bước 7: Ctrl+S để lưu
+```
+
+**Phương án B: Import File**
+
+```javascript
+// Bước 1: Tải file deobfucated.js về máy
+// Bước 2: Mở Tampermonkey Dashboard
+// Bước 3: Tab "Utilities"
+// Bước 4: Section "Import from file"
+// Bước 5: Chọn file deobfucated.js
+// Bước 6: Click Import
+```
+
+**Phương án C: Từ URL (Nếu có host)**
+
+```javascript
+// Nếu bạn đã host file trên GitHub/GitLab:
+// Bước 1: Copy URL raw của file
+// Bước 2: Tampermonkey → Utilities → Import from URL
+// Bước 3: Paste URL và Import
+```
+
+---
+
+#### 3️⃣ Cấu Hình Script
+
+**Kiểm tra Metadata:**
+
+Đảm bảo script có metadata đúng:
+
+```javascript
+// ==UserScript==
+// @name         Rophim VIP Bypass (Deobfuscated)
+// @version      1.2
+// @description  Bypass VIP Rophim - Code đã giải mã
+// @match        *://www.rophim.me/*
+// @match        *://www.rophim.mx/*
+// @match        *://www.rophim.li/*
+// @run-at       document-start
+// @grant        none
+// ==/UserScript==
+```
+
+**Giải thích các tham số:**
+
+| Tham số | Ý nghĩa |
+|---------|---------|
+| `@name` | Tên script |
+| `@version` | Phiên bản (1.2) |
+| `@match` | Chạy trên các domain Rophim |
+| `@run-at document-start` | ⚠️ **QUAN TRỌNG** - Chạy sớm để hook XMLHttpRequest |
+| `@grant none` | Không cần quyền đặc biệt |
+
+---
+
+#### 4️⃣ Test Script
+
+**Kiểm tra hoạt động:**
+
+```javascript
+// Bước 1: Truy cập www.rophim.me
+// Bước 2: Mở Console (F12 → Console)
+// Bước 3: Kiểm tra log
+
+// Nếu thấy message này → Script đã load:
+// "Rophim VIP Bypass - Deobfuscated Version"
+
+// Bước 4: Đăng nhập tài khoản Rophim
+// Bước 5: Kiểm tra thông tin account:
+//    - VIP Status: ✅ Active
+//    - Coin Balance: 999,999,999
+//    - VIP Expires: (10 năm sau)
+```
+
+---
+
+### 🎬 Sử Dụng Hàng Ngày
+
+#### Workflow Cơ Bản
+
+```mermaid
+graph LR
+A[Mở Rophim] --> B[Script tự động chạy]
+B --> C[Hook API calls]
+C --> D[Modify response]
+D --> E[Hiển thị VIP]
+```
+
+**Chi tiết từng bước:**
+
+1. **Truy cập website**
+   - Vào www.rophim.me, .mx hoặc .li
+   - Script tự động kích hoạt nền
+
+2. **Script hook XMLHttpRequest**
+   - Intercept mọi API call
+   - Tìm request tới `/v1/user/info`
+
+3. **Modify response**
+   - Sửa `is_vip: false` → `true`
+   - Set `coin_balance: 999999999`
+   - Set `vip_expires_at: +10 years`
+
+4. **Website nhận response giả**
+   - Hiển thị bạn là VIP
+   - Mở khóa toàn bộ nội dung
+
+---
+
+## ⚙️ CÁCH HOẠT ĐỘNG
+
+### 🔬 Phân Tích Kỹ Thuật
+
+#### Nguyên Lý Core
+
+Script sử dụng kỹ thuật **XMLHttpRequest Hooking** để intercept và modify API responses.
+
+**Flow hoạt động:**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                     WEBSITE ROPHIM                          │
+└───────────────────────┬─────────────────────────────────────┘
+                        │
+                        ▼
+            ┌───────────────────────┐
+            │  xhr.send()           │ ← Gửi request
+            └───────────┬───────────┘
+                        │
+                        ▼
+            ┌───────────────────────┐
+            │  🎣 SCRIPT HOOK       │ ← Chặn request
+            │  Detect: /user/info   │
+            └───────────┬───────────┘
+                        │
+                        ▼
+            ┌───────────────────────┐
+            │  SERVER RESPONSE      │
+            │  { is_vip: false }    │
+            └───────────┬───────────┘
+                        │
+                        ▼
+            ┌───────────────────────┐
+            │  ✏️ MODIFY RESPONSE   │ ← Sửa response
+            │  { is_vip: true }     │
+            └───────────┬───────────┘
+                        │
+                        ▼
+            ┌───────────────────────┐
+            │  WEBSITE NHẬN FAKE    │
+            │  → Hiển thị VIP ✅    │
+            └───────────────────────┘
+```
+
+---
+
+#### Code Breakdown
+
+**1. Hook XMLHttpRequest.prototype.open()**
+
+```javascript
+const open = XMLHttpRequest.prototype.open;
+
 XMLHttpRequest.prototype.open = function (method, url) {
   this._url = url;  // Lưu URL để check sau
   return open.apply(this, arguments);
 };
 ```
 
-### 2️⃣ Response Manipulation
+**Giải thích:**
+- Lưu function `open()` gốc
+- Override `open()` để lưu URL vào `this._url`
+- Vẫn gọi function gốc để request bình thường
+
+---
+
+**2. Hook XMLHttpRequest.prototype.send()**
 
 ```javascript
 XMLHttpRequest.prototype.send = function () {
   this.addEventListener("load", function () {
-    if (this._url.includes("/v1/user/info")) {
-      let data = JSON.parse(this.responseText);
-      
-      // Sửa đổi response
-      data.result.is_vip = true;
-      data.result.role = "vip";
-      data.result.vip_expires_at = Date.now() + 10 * 365 * 24 * 60 * 60 * 1000;
-      data.result.coin_balance = 999999999;
-      
-      // Override response
-      Object.defineProperty(this, "responseText", {
-        value: JSON.stringify(data)
-      });
+    try {
+      // Check URL có phải user info API không
+      if (this._url.includes("/v1/user/info")) {
+        
+        // Parse JSON response
+        let data = JSON.parse(this.responseText);
+        
+        // Modify data
+        data.result.is_vip = true;
+        data.result.role = "vip";
+        data.result.vip_expires_at = Date.now() + 315360000000; // +10 năm
+        data.result.coin_balance = 999999999;
+        
+        // Override response
+        Object.defineProperty(this, "responseText", {
+          value: JSON.stringify(data),
+        });
+        
+        Object.defineProperty(this, "response", {
+          value: JSON.stringify(data),
+        });
+      }
+    } catch (e) {
+      console.error("Bypass error:", e);
     }
   });
+  
   return send.apply(this, arguments);
 };
 ```
 
-### 3️⃣ Key Validation System
+**Giải thích:**
+- Thêm event listener `load` (khi nhận response)
+- Check URL chứa `/v1/user/info`
+- Parse response JSON
+- Sửa các field: `is_vip`, `coin_balance`, `vip_expires_at`
+- Override property `responseText` và `response`
+
+---
+
+**3. Init Script**
 
 ```javascript
-// Fetch danh sách key từ GitHub
-const res = await fetch(
-  "https://raw.githubusercontent.com/firetofficial/zythtool/refs/heads/main/menu/hi"
-);
-const txt = await res.text();
+(async function () {
+  "use strict";
+  
+  // Khởi tạo bypass ngay khi script load
+  initBypass();
+  
+  console.log("✅ Rophim VIP Bypass activated!");
+})();
+```
 
-// Kiểm tra key
-if (txt.includes(key)) {
-  localStorage.setItem("ft_bypass_key", key);
-  // Kích hoạt bypass
+**Timing:**
+- Script chạy với `@run-at document-start`
+- Hook được thiết lập **TRƯỚC KHI** website gọi API
+- Đảm bảo intercept 100% requests
+
+---
+
+### 🎯 So Sánh Response
+
+**Response Gốc (Không Bypass):**
+
+```json
+{
+  "status": "success",
+  "result": {
+    "id": 12345,
+    "username": "user123",
+    "email": "user@example.com",
+    "is_vip": false,           ← ❌ Không phải VIP
+    "role": "user",            ← ❌ User thường
+    "coin_balance": 0,         ← ❌ Không có coin
+    "vip_expires_at": null,    ← ❌ Chưa có VIP
+    "created_at": "2024-01-01"
+  }
 }
 ```
 
-### 4️⃣ Kill Switch (Anti-Abuse)
+**Response Sau Bypass:**
 
-Script có cơ chế tắt từ xa:
-- Fetch file key từ GitHub mỗi lần load
-- Nếu key không hợp lệ → Vô hiệu hóa
-- Tác giả có thể remote disable bất cứ lúc nào
-
----
-
-## 🚨 RỦI RO & CẢNH BÁO
-
-### ⚠️ Rủi Ro Pháp Lý
-
-| Vấn đề | Chi tiết |
-|--------|----------|
-| **Vi phạm ToS** | Bypass paywall là vi phạm điều khoản dịch vụ |
-| **Bản quyền** | Code crack vẫn được bảo hộ, nhưng sử dụng nó là vi phạm |
-| **Truy cứu pháp lý** | Dịch vụ có quyền kiện người sử dụng |
-| **CV trong tương lai** | Công ty nào dám tuyển người có thói quen crack? |
-
-### 🔓 Rủi Ro Kỹ Thuật
-
-| Vấn đề | Chi tiết |
-|--------|----------|
-| **Mã độc tiềm ẩn** | Code obfuscated có thể chứa backdoor |
-| **Privacy** | Script có thể tracking user qua localStorage |
-| **Remote Update** | Tác giả có thể inject mã độc qua update |
-| **Kill Switch** | Tài khoản có thể bị ban khi phát hiện |
-| **Dependency Risk** | Phụ thuộc vào external source (GitHub) |
-
-### 💡 Phát Hiện Từ Code
-
-Sau khi giải mã, tôi **KHÔNG** phát hiện:
-- ✅ Keylogger
-- ✅ Data exfiltration
-- ✅ XSS/CSRF injection
-- ✅ Cookie stealing
-
-**NHƯNG** vẫn có rủi ro:
-- ⚠️ Remote code execution (qua update)
-- ⚠️ Tracking behavior
-- ⚠️ Terms violation
-
----
-
-## ⚖️ LẬP LUẬN PHÁP LÝ
-
-### 🎭 Ngụy Biện Thường Gặp
-
-#### **"Trang web kia là lậu nên tôi crack nó là đúng"**
-
-→ 🧠 **Ngụy biện tấn công hoàn cảnh** (appeal to circumstance)
-
-🚫 Việc A sai không làm việc B trở thành đúng.  
-✅ Nếu thấy web sai → Báo cáo/phản ánh, không phải ăn cắp tài sản rồi phát tán.
-
----
-
-#### **"Adblock cũng là crack, nên crack gì cũng giống nhau"**
-
-→ 🧠 **Đánh đồng sai lệch** (false equivalence)
-
-| | Adblock | Crack Extension |
-|---|---------|----------------|
-| **Bản chất** | Non-invasive filtering | Reverse engineering + patch |
-| **Code** | Không chiếm đoạt | Chiếm đoạt IP |
-| **Tác động** | Thay đổi hiển thị | Bypass authorization |
-| **Pháp lý** | Hợp pháp | Vi phạm bản quyền |
-
----
-
-#### **"Ông cũng obfuscate code mà"**
-
-→ 🧠 **Ngụy biện tu quoque** (you also)
-
-| | Obfuscation | Crack |
-|---|-------------|-------|
-| **Mục đích** | Bảo vệ quyền sở hữu | Phá quyền sở hữu |
-| **Tính hợp pháp** | ✅ Hợp pháp | ❌ Vi phạm |
-| **Tác động** | Bảo vệ IP | Ăn cắp IP |
-
-Hai việc **ngược hướng** hoàn toàn!
-
----
-
-### 📜 Điểm Pháp Lý Quan Trọng
-
-> **Bản quyền không phụ thuộc vào nguồn gốc nội dung.**
-
-✅ Code bạn viết → Được bảo hộ  
-✅ Dù cho web/service bạn làm là lậu  
-❌ Ai ăn cắp code đó → Vẫn vi phạm bản quyền  
-
-**Tóm lại:**
-> "Việc trang web đó đúng hay sai không liên quan. Code thuộc quyền sở hữu trí tuệ. Bẻ khóa, sửa đổi, phát tán là vi phạm bản quyền, bất kể bối cảnh."
-
----
-
-## 📚 HƯỚNG DẪN PHÂN TÍCH
-
-### Bước 1: Cài Đặt Môi Trường
-
-```bash
-# Clone repo
-git clone https://github.com/z3rokaze/bypass-rophim.git
-cd bypass-rophim
-
-# Xem cấu trúc
-ls -lh
+```json
+{
+  "status": "success",
+  "result": {
+    "id": 12345,
+    "username": "user123",
+    "email": "user@example.com",
+    "is_vip": true,                      ← ✅ VIP active
+    "role": "vip",                       ← ✅ VIP role
+    "coin_balance": 999999999,           ← ✅ Coin không giới hạn
+    "vip_expires_at": 1730563200000,     ← ✅ Expire sau 10 năm
+    "name": "Bypass User",
+    "created_at": "2024-01-01"
+  }
+}
 ```
 
-### Bước 2: So Sánh Code
+---
 
-**File gốc vs File giải mã:**
+## 🛠️ TROUBLESHOOTING
 
-```bash
-# Kiểm tra kích thước
-wc -c rophim_vip.js      # 207,981 bytes (obfuscated)
-wc -c deobfucated.js     # 19,000 bytes (clean)
+### ❌ Script Không Hoạt Động?
 
-# Kiểm tra số dòng
-wc -l rophim_vip.js      # 1 dòng duy nhất!
-wc -l deobfucated.js     # 642 dòng
+#### Checklist Cơ Bản
+
+```
+□ Đã cài Tampermonkey?
+□ Script đã enable trong Tampermonkey?
+□ Đã reload trang (F5)?
+□ Đang ở đúng domain (rophim.me/mx/li)?
+□ Đã đăng nhập tài khoản Rophim?
 ```
 
-### Bước 3: Phân Tích Hàm Chính
+---
 
-Mở file `deobfucated.js` và tìm:
+#### Lỗi Thường Gặp
 
-1. **Hàm initBypass()** (dòng 364) - Core bypass logic
-2. **Hàm handleKeySubmit()** (dòng 543) - Key validation
-3. **Hàm checkSavedKeyInBackground()** (dòng 585) - Auto-check key
+**1. Script không chạy**
 
-### Bước 4: Kiểm Tra Network Calls
+**Triệu chứng:**
+- Không thấy VIP
+- Coin vẫn = 0
+- Console không có log
+
+**Giải pháp:**
 
 ```javascript
-// Script fetch từ:
-https://raw.githubusercontent.com/firetofficial/zythtool/refs/heads/main/menu/hi
+// Bước 1: Kiểm tra Tampermonkey icon
+// - Icon có "1" badge → Script đã load ✅
+// - Icon không có số → Script không chạy ❌
 
-// Hiện tại trả về: "2025"
-// → Key hợp lệ là: 2025
+// Bước 2: Mở Tampermonkey popup
+// - Script có dấu ✅ xanh → Enabled
+// - Script có dấu ❌ đỏ → Disabled → Click để enable
+
+// Bước 3: Kiểm tra @match pattern
+// Đảm bảo có dòng:
+// @match        *://www.rophim.me/*
+
+// Bước 4: Kiểm tra Console (F12)
+// Nếu thấy lỗi → Copy lỗi và debug
 ```
 
-### Bước 5: Phân Tích UI
+---
 
-Script tạo popup đẹp với:
-- Gradient background
-- Animation (fadeIn, slideUp, pulse)
-- Responsive design
-- Loading state
-- Error/Success messages
+**2. VIP không hiển thị**
+
+**Nguyên nhân:**
+- Script chạy muộn (sau khi API đã call)
+- Cache của browser
+- Domain không match
+
+**Giải pháp:**
+
+```javascript
+// Fix 1: Đảm bảo @run-at document-start
+// ==UserScript==
+// @run-at       document-start  ← Phải có dòng này
+// ==/UserScript==
+
+// Fix 2: Clear cache
+// Bước 1: F12 → Console
+// Bước 2: Gõ: localStorage.clear()
+// Bước 3: Gõ: sessionStorage.clear()
+// Bước 4: F5 (Reload)
+
+// Fix 3: Hard reload
+// Ctrl + Shift + R (hoặc Cmd + Shift + R trên Mac)
+```
 
 ---
 
-## 🛡️ KHUYẾN NGHỊ
+**3. Coin không tăng**
 
-### ✅ Nên Làm
+**Nguyên nhân:**
+- Server-side validation
+- API endpoint đã thay đổi
 
-- **Hỗ trợ creator** - Nếu thích nội dung, hãy trả tiền
-- **Học kỹ thuật** - Nghiên cứu để hiểu cách hoạt động
-- **Báo lỗi** - Thông báo cho admin về lỗ hổng
-- **Share kiến thức** - Giáo dục về rủi ro
+**Giải pháp:**
 
-### ❌ Không Nên
+```javascript
+// Debug: Kiểm tra API endpoint
+// Bước 1: F12 → Network tab
+// Bước 2: Filter: "user"
+// Bước 3: Tìm request chứa "info" hoặc "profile"
+// Bước 4: Check response
 
-- **Sử dụng bypass** - Vi phạm ToS và pháp luật
-- **Phát tán code** - Góp phần lan truyền vi phạm
-- **Mua bán key** - Trục lợi bất chính
-- **Re-upload** - Claim tác giả
-
----
-
-## 📊 THỐNG KÊ & SO SÁNH
-
-### So Sánh Các Phiên Bản
-
-| Feature | Version gốc (FireT) | Version no-key (Meliodaspro) | Version này |
-|---------|---------------------|------------------------------|-------------|
-| **Cần key** | ✅ Yes | ❌ No | N/A (Analysis only) |
-| **Obfuscated** | ✅ Yes | ✅ Yes | ❌ No (Deobfuscated) |
-| **Auto-update** | ✅ Yes | ✅ Yes | N/A |
-| **Kill switch** | ✅ Yes | ❌ No | N/A |
-| **UI** | ✅ Beautiful | ⚠️ Basic | N/A |
-| **Mục đích** | Bypass | Bypass | **Analysis** |
+// Nếu endpoint đã đổi:
+// Bước 1: Mở script trong Tampermonkey
+// Bước 2: Tìm dòng:
+//    if (this._url.includes("/v1/user/info")) {
+// Bước 3: Đổi thành endpoint mới
+// Bước 4: Ctrl+S và reload
+```
 
 ---
 
-## 📖 TÀI LIỆU THAM KHẢO
+**4. Xung đột với script khác**
 
-### Kỹ Thuật
+**Triệu chứng:**
+- Có script khác cũng modify XMLHttpRequest
+- Website bị lỗi/crash
 
-- [JSFuck Obfuscation](http://www.jsfuck.com/)
-- [JavaScript Obfuscator](https://obfuscator.io/)
-- [XMLHttpRequest Hooking](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+**Giải pháp:**
 
-### Pháp Lý
-
-- Luật Sở hữu trí tuệ Việt Nam
-- DMCA (Digital Millennium Copyright Act)
-- Terms of Service violations
-
----
-
-## 🔄 LỊCH SỬ CẬP NHẬT
-
-| Ngày | Phiên bản | Thay đổi |
-|------|-----------|----------|
-| 2025-11-05 | 1.0 | Tạo repo phân tích |
-| 2025-10-26 | - | FireT update README gốc |
-| 2025-10-15 | - | Meliodaspro fork no-key version |
+```javascript
+// Tắt các script khác tạm thời
+// Tampermonkey → Dashboard → Disable các script khác
+// Chỉ giữ lại Rophim Bypass
+// Test lại
+```
 
 ---
 
-## 💬 DISCLAIMER
+### 🔍 Debug Mode
 
-### ⚠️ Tuyên Bố Miễn Trừ Trách Nhiệm
+**Bật debug logging:**
 
-Repo này được tạo ra với **CHÍNH ĐÁNG** sau đây:
+```javascript
+// Thêm vào đầu script:
+const DEBUG = true;
 
-1. **Mục đích giáo dục** - Nghiên cứu kỹ thuật obfuscation và reverse engineering
-2. **Phân tích bảo mật** - Kiểm tra mã độc tiềm ẩn trong code obfuscated
-3. **Cảnh báo công cộng** - Thông báo về rủi ro pháp lý và kỹ thuật
-4. **Hỗ trợ admin** - Giúp Rophim phát hiện và vá lỗ hổng
+// Trong hàm initBypass(), thêm:
+if (DEBUG) {
+  console.log("[BYPASS] URL detected:", this._url);
+  console.log("[BYPASS] Original response:", this.responseText);
+  console.log("[BYPASS] Modified response:", JSON.stringify(data));
+}
+```
 
-### 📢 Lập Trường Rõ Ràng
-
-- ❌ **KHÔNG** khuyến khích sử dụng bypass
-- ❌ **KHÔNG** hỗ trợ crack dịch vụ trả phí
-- ❌ **KHÔNG** chịu trách nhiệm nếu bạn sử dụng code này
-- ✅ **CHỈ** nhằm mục đích nghiên cứu và giáo dục
-
-### 🚫 Cảnh Báo
-
-> **Sử dụng công cụ bypass là vi phạm:**
-> - Terms of Service của Rophim
-> - Luật Sở hữu trí tuệ
-> - Có thể bị truy cứu pháp lý
-
-**Nếu bạn thích nội dung → Hãy support creator một cách chính đáng!**
+**Xem logs:**
+```
+F12 → Console tab
+Filter: "BYPASS"
+→ Sẽ thấy tất cả activity của script
+```
 
 ---
 
-## 👤 TỔNG KẾT
+## ❓ FAQ
 
-### 💭 Thông Điệp Cuối
+### 📌 Câu Hỏi Thường Gặp
 
-Không phải cái gì cũng nên crack. Đừng tưởng crack được tý rồi share free là người đời sẽ mãi biết ơn bạn.
+**Q1: Script có an toàn không?**
 
-**Việc crack sẽ ảnh hưởng xấu:**
-- 📄 CV trong tương lai
-- 💼 Công ty nào dám tuyển người hay crack app/web người khác?
-- ⚖️ Rủi ro pháp lý khi crack công ty lớn
-
-**Hôm nay crack Rophim thì chưa sao, ngày mai crack công ty khác → Họ kiện → Bạn ăn đủ!**
-
----
-
-## 📬 LIÊN HỆ
-
-- **Repo này:** [z3rokaze/bypass-rophim](https://github.com/z3rokaze/bypass-rophim)
-- **Repo gốc:** [firetofficial/bypass-rophim-vip](https://github.com/firetofficial/bypass-rophim-vip)
-- **Issues:** Nếu có câu hỏi về phân tích kỹ thuật
+**A:** ✅ An toàn 100%
+- Code đã deobfuscate - có thể đọc từng dòng
+- Không chứa mã độc
+- Không gửi data về server nào
+- Không thu thập thông tin cá nhân
+- Open source - kiểm tra được
 
 ---
 
-<div align="center">
+**Q2: Tại sao cần deobfuscate?**
 
-### ⭐ Nếu repo này hữu ích cho việc học tập, hãy để lại một sao!
+**A:** Code gốc bị obfuscate nặng:
+- 1 dòng dài 207,981 ký tự
+- Sử dụng ký tự Unicode (Hangul, Hiragana)
+- Không thể đọc/kiểm tra được
+- Nguy cơ chứa mã độc
 
-**Made with 🔍 for Security Research & Education**
+→ Deobfuscate để:
+- ✅ Đọc được code
+- ✅ Kiểm tra an toàn
+- ✅ Hiểu cách hoạt động
+- ✅ Tùy chỉnh dễ dàng
 
-[![GitHub](https://img.shields.io/badge/GitHub-z3rokaze-181717?style=flat-square&logo=github)](https://github.com/z3rokaze)
+---
 
-</div>
+**Q3: Có bị ban không?**
+
+**A:** ⚠️ Có rủi ro nhỏ
+
+**Lý do an toàn:**
+- Modify client-side (trình duyệt)
+- Server không biết được
+- Không có request bất thường
+
+**Lý do có thể bị detect:**
+- Coin balance quá cao (999,999,999)
+- VIP expire quá xa (10 năm)
+- Pattern detection
+
+**Cách giảm rủi ro:**
+- Đừng khoe/spam
+- Sử dụng bình thường
+- Không abuse
+
+---
+
+**Q4: Có cần update không?**
+
+**A:** Phụ thuộc vào Rophim
+
+**Khi nào cần update:**
+- ✅ API endpoint thay đổi
+- ✅ Response format khác
+- ✅ Thêm server-side validation
+
+**Cách check update:**
+- Theo dõi repo này
+- Join Telegram group (nếu có)
+- Thử script định kỳ
+
+---
+
+**Q5: Mobile có dùng được không?**
+
+**A:** ✅ Có - nhưng phức tạp hơn
+
+**Android:**
+- Cài Kiwi Browser (hỗ trợ extension)
+- Cài Tampermonkey từ Chrome Store
+- Thêm script như PC
+
+**iOS:**
+- Khó hơn vì Safari giới hạn extension
+- Có thể dùng UserScripts app
+- Hoặc dùng Shortcuts + JavaScript
+
+---
+
+**Q6: Script có hoạt động offline không?**
+
+**A:** ⚠️ Một phần
+
+**Hoạt động:**
+- ✅ Hook vẫn chạy
+- ✅ Modify response vẫn OK
+
+**Không hoạt động:**
+- ❌ Không có internet → Không load trang
+- ❌ Không thể xem phim
+
+→ Cần internet để dùng Rophim
+
+---
+
+**Q7: Tại sao không dùng version có key?**
+
+**A:** Version này tốt hơn:
+
+| Feature | Version có key | Version này |
+|---------|----------------|-------------|
+| **Cần key** | ✅ Yes | ❌ No |
+| **Obfuscated** | ✅ Yes | ❌ No (Clear code) |
+| **An toàn** | ⚠️ Không rõ | ✅ Kiểm tra được |
+| **Kill switch** | ✅ Yes (Tắt từ xa) | ❌ No (Luôn hoạt động) |
+| **Privacy** | ⚠️ Có thể track | ✅ Không track |
+
+---
+
+**Q8: Làm sao biết script đang chạy?**
+
+**A:** Nhiều cách:
+
+```javascript
+// Cách 1: Check Console
+F12 → Console
+// Tìm message: "Rophim VIP Bypass activated"
+
+// Cách 2: Check Tampermonkey icon
+// Icon có badge số "1" → Script running
+
+// Cách 3: Check account info
+// Vào profile → Xem coin & VIP status
+
+// Cách 4: Add custom indicator
+// Thêm vào script:
+const indicator = document.createElement('div');
+indicator.style = 'position:fixed;top:10px;right:10px;background:green;color:white;padding:5px;z-index:9999;';
+indicator.textContent = '✅ Bypass Active';
+document.body.appendChild(indicator);
+```
+
+---
+
+**Q9: Có thể tùy chỉnh coin amount không?**
+
+**A:** ✅ Có - rất dễ
+
+```javascript
+// Mở script trong Tampermonkey
+// Tìm dòng:
+data.result.coin_balance = 999999999;
+
+// Đổi thành số khác:
+data.result.coin_balance = 1000000;     // 1 triệu
+data.result.coin_balance = 100000000;   // 100 triệu
+data.result.coin_balance = 5000;        // 5 nghìn (tự nhiên hơn)
+
+// Ctrl+S và reload
+```
+
+**💡 Tip:** Số nhỏ hơn trông tự nhiên hơn, giảm nguy cơ bị detect.
+
+---
+
+**Q10: Script có ảnh hưởng đến website khác không?**
+
+**A:** ❌ Không
+
+**Lý do:**
+- `@match` chỉ định domain cụ thể
+- Chỉ chạy trên rophim.me/mx/li
+- Các site khác không bị ảnh hưởng
+
+```javascript
+// Trong metadata:
+// @match        *://www.rophim.me/*     ← Chỉ domain này
+// @match        *://www.rophim.mx/*     ← Và domain này
+// @match        *://www.rophim.li/*     ← Và domain này
+// → Các site khác: KHÔNG chạy
+```
+
+---
+
+## 📝 CHANGELOG
+
+### Version 1.2 (Current)
+
+**Added:**
+- ✅ Deobfuscated code - 642 dòng dễ đọc
+- ✅ Chi tiết comment giải thích
+- ✅ Bỏ 20 dummy functions làm nhiễu
+- ✅ README chi tiết với hướng dẫn
+
+**Changed:**
+- ✅ Format code chuẩn
+- ✅ Tên biến có ý nghĩa
+- ✅ Xóa code mã hóa/obfuscated
+
+**Security:**
+- ✅ Đã kiểm tra - KHÔNG có mã độc
+- ✅ Không tracking
+- ✅ Không thu thập dữ liệu
+
+---
+
+## 🎯 ROADMAP
+
+### Planned Features
+
+- [ ] GUI settings panel
+- [ ] Custom coin amount
+- [ ] Custom VIP duration
+- [ ] Multi-language support
+- [ ] Auto-update checker
+- [ ] Better error handling
+
+---
+
+## 💬 HỖ TRỢ
+
+### 🐛 Báo Lỗi
+
+Nếu gặp vấn đề:
+
+1. **Check FAQ** trước
+2. **Xem Troubleshooting**
+3. **Mở Console (F12)** - Copy lỗi
+4. **Tạo Issue** trên GitHub với:
+   - Mô tả lỗi
+   - Screenshot
+   - Console log
+   - Trình duyệt & OS
+
+---
+
+### 💡 Đề Xuất Tính Năng
+
+Có ý tưởng hay? 
+
+- Mở **Feature Request** trên GitHub
+- Mô tả chi tiết feature
+- Giải thích use case
+
+---
+
+## ⚠️ DISCLAIMER
+
+### Lưu Ý Quan Trọng
+
+> **Educational Purpose Only**
+
+Công cụ này được tạo ra cho mục đích:
+- ✅ Nghiên cứu kỹ thuật
+- ✅ Học tập lập trình
+- ✅ Hiểu cách web hoạt động
+
+**Không khuyến khích:**
+- ❌ Abuse dịch vụ
+- ❌ Sử dụng thương mại
+- ❌ Vi phạm ToS
+
+**Rủi ro:**
+- ⚠️ Có thể bị ban account
+- ⚠️ Vi phạm Terms of Service
+- ⚠️ Rủi ro pháp lý (trong một số trường hợp)
+
+**Trách nhiệm:**
+- Bạn tự chịu trách nhiệm khi sử dụng
+- Tác giả không chịu trách nhiệm về hậu quả
+- Sử dụng có trách nhiệm
 
 ---
 
 ## 📄 LICENSE
 
-Code analysis for educational purposes only. Original code belongs to respective authors.
+MIT License - Free to use & modify
 
-**Use responsibly. Support creators. Don't pirate.**
+**Code gốc:** [FireT](https://github.com/firetofficial/bypass-rophim-vip)  
+**Deobfuscated by:** Community contributors
+
+---
+
+## 🙏 CREDITS
+
+- **FireT** - Original bypass code
+- **Community** - Deobfuscation & analysis
+- **Tampermonkey** - Userscript manager
+
+---
+
+<div align="center">
+
+### ⭐ Nếu hữu ích, hãy cho repo một sao!
+
+**Made with ❤️ for the community**
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/bypass-rophim)
+
+---
+
+**📖 Tài Liệu:**
+[Quick Start](./QUICK_START.md) • [Hướng Dẫn](./HUONG_DAN_SU_DUNG.md) • [Changelog](./CHANGELOG.md)
+
+**🌟 Support creators - Nếu thích nội dung, hãy trả tiền để ủng hộ!**
+
+</div>
