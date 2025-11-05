@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Rophim VIP Bypass v2.0 Advanced
+// @name         Rophim VIP Bypass v2.0 Stable
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  VIP đến 2099 + 999M Coin + 16 Endpoints + Debug Mode + Cache + Stealth
-// @author       Community (Advanced)
+// @description  VIP đến 2099 + 999M Coin + 8 Endpoints - Stable & Tested
+// @author       Community (Based on tearrs)
 // @require      https://cdn.jsdelivr.net/gh/yourusername/bypass-rophim@main/core.js
 // @match        *://www.rophim.li/*
 // @match        *://www.rophim.me/*

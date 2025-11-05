@@ -1,14 +1,14 @@
-# 🎬 Rophim VIP Bypass - Advanced v2.0
+# 🎬 Rophim VIP Bypass - Stable Edition
 
-![Version](https://img.shields.io/badge/Version-2.0_Advanced-blue?style=for-the-badge&logo=javascript)
-![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.0_Stable-blue?style=for-the-badge&logo=javascript)
+![Status](https://img.shields.io/badge/Status-Tested_&_Working-success?style=for-the-badge)
 ![Updated](https://img.shields.io/badge/Updated-Nov%202025-orange?style=for-the-badge)
 ![No Key](https://img.shields.io/badge/No%20Key-Required-green?style=for-the-badge)
 
-> **⚡ Version 2.0 - ADVANCED FEATURES!**  
+> **⚡ Version Stable - Đơn Giản & Ổn Định!**  
 > **✅ VIP đến 18/07/2099 (49 năm!)**  
-> **✅ 16 API endpoints + Anti-detection**  
-> **✅ Debug Mode + Cache System + Stealth Mode**
+> **✅ 8 API endpoints - Proven Logic**  
+> **✅ Based on tearrs - Clean & Simple**
 
 <div align="center">
 
@@ -20,8 +20,8 @@
 | **Coin Balance** | 0 | 💰 **999,999,999** |
 | **Ads** | ✅ Có | ❌ **Đã ẩn** |
 | **Theme** | Default | 🎨 **Custom + Animation** |
-| **API Endpoints** | 1 | 🎯 **16 endpoints** |
-| **Debug Mode** | ❌ | ✅ **Console control** |
+| **API Endpoints** | 3 | 🎯 **8 endpoints** |
+| **Code Size** | 207KB | 💾 **5.6KB** |
 
 </div>
 
@@ -29,22 +29,20 @@
 
 ## 📋 MỤC LỤC
 
-1. [✨ Tính Năng Mới v2.0](#-tính-năng-mới-v20)
-2. [🚀 Advanced Features](#-advanced-features-mới)
-3. [📥 Cài Đặt Siêu Nhanh](#-cài-đặt-siêu-nhanh-2-phút)
-4. [📖 Hướng Dẫn Chi Tiết](#-hướng-dẫn-chi-tiết)
-5. [⚙️ Cách Hoạt Động](#️-cách-hoạt-động)
-6. [🎮 Console Commands](#-console-commands-điều-khiển)
-7. [🎨 Custom Theme](#-custom-theme)
-8. [🔧 Troubleshooting](#-troubleshooting)
-9. [❓ FAQ](#-faq)
-10. [🆚 So Sánh Versions](#-so-sánh-với-phiên-bản-cũ)
+1. [✨ Tính Năng](#-tính-năng)
+2. [📥 Cài Đặt Siêu Nhanh](#-cài-đặt-siêu-nhanh-2-phút)
+3. [📖 Hướng Dẫn Chi Tiết](#-hướng-dẫn-chi-tiết)
+4. [⚙️ Cách Hoạt Động](#️-cách-hoạt-động)
+5. [🎨 Custom Theme](#-custom-theme)
+6. [🔧 Troubleshooting](#-troubleshooting)
+7. [❓ FAQ](#-faq)
+8. [🆚 So Sánh Versions](#-so-sánh-với-phiên-bản-cũ)
 
 ---
 
-## ✨ TÍNH NĂNG MỚI v2.0
+## ✨ TÍNH NĂNG
 
-### 🎯 Điểm Mạnh Vượt Trội
+### 🎯 Tại Sao Chọn Version Này?
 
 <table>
 <tr>
@@ -55,7 +53,7 @@
 - ✅ **999,999,999 Coin** không giới hạn
 - ✅ **Không cần key** - Dùng ngay lập tức
 - ✅ **Không quảng cáo** - Ẩn hết ads
-- ✅ **Auto inject CSS** - Theme + Animation
+- ✅ **Auto inject CSS** - Theme xanh lá
 
 </td>
 <td width="50%">
@@ -63,9 +61,10 @@
 **⚡ Technical Advantages**
 - ✅ **Hook fetch() API** (Modern!)
 - ✅ **Hook XMLHttpRequest** (Legacy support)
-- ✅ **16 API endpoints** được patch
+- ✅ **8 API endpoints** được patch
 - ✅ **Response cloning** (Không break app)
 - ✅ **ES6+ code** (async/await, arrow functions)
+- ✅ **Proven logic** (từ tearrs - tested!)
 
 </td>
 </tr>
@@ -73,143 +72,73 @@
 
 ---
 
-## 🚀 ADVANCED FEATURES (Mới!)
+## 🏆 TẠI SAO STABLE?
 
-### 🛡️ Anti-Detection System
-
-```javascript
-✅ Stealth Mode
-   • Hooks trông như native code
-   • Random delays (0-10ms) cho tự nhiên
-   • toString() returns "[native code]"
-   • Anti-tamper detection
-
-✅ Randomization (Optional)
-   • Coin balance random 998M-999M
-   • Timing randomization
-   • Behavior pattern mixing
-```
-
-### 💾 Cache System
-
-```javascript
-✅ Smart Caching
-   • Cache patched responses
-   • 60 seconds duration
-   • Auto cleanup
-   • Performance boost
-   • Reduce patching overhead
-```
-
-### 🐛 Debug Mode
-
-```javascript
-✅ Advanced Logging
-   • Console.log với styling
-   • Track all hooks
-   • Monitor API calls
-   • Error tracking
-   • Performance metrics
-
-// Bật từ console:
-RophimBypass.enableDebug()
-```
-
-### 🎯 Extended API Coverage
-
-**16 endpoints được hook:**
-
-```
-📍 User Endpoints (5):
-   • /v1/user/info
-   • /v1/user/profile
-   • /v1/user/updateProfile
-   • /v1/user/me
-   • /v1/user/settings
-
-📍 Auth Endpoints (4):
-   • /v1/auth/login
-   • /v1/auth/register
-   • /v1/auth/refresh
-   • /v1/auth/verify
-
-📍 VIP Endpoints (3):
-   • /v1/vip/check
-   • /v1/vip/status
-   • /v1/subscription/status
-
-📍 Payment Endpoints (2):
-   • /v1/payment/check
-   • /v1/coin/balance
-
-📍 V2 API (2):
-   • /v2/user/info
-   • /v2/user/profile
-```
-
-### ⚙️ Configurable Settings
-
-```javascript
-// Trong core.js, có thể tùy chỉnh:
-
-const CONFIG = {
-  VIP_EXPIRY_TIMESTAMP: 4088496000,  // 18/07/2099
-  COIN_BALANCE: 999999999,
-  DEBUG_MODE: false,                  // Bật debug
-  STEALTH_MODE: true,                 // Anti-detection
-  RANDOMIZE_COINS: false,             // Random coin
-  HIDE_ADS: true,                     // Ẩn ads
-  ENABLE_CACHE: true,                 // Cache system
-  THEME_COLOR: "#51f085",             // Màu theme
-};
-```
-
-### 🎮 Console Control
-
-**Điều khiển script từ console:**
-
-```javascript
-// Xem thông tin
-RophimBypass.info()
-
-// Bật/tắt debug
-RophimBypass.enableDebug()
-RophimBypass.disableDebug()
-
-// Đổi màu theme
-RophimBypass.setThemeColor('#3b82f6')  // Blue
-RophimBypass.setThemeColor('#a855f7')  // Purple
-
-// Xóa cache
-RophimBypass.clearCache()
-
-// Xem stats
-RophimBypass.getStats()
-```
-
-### 🔄 So Với Version Trước
+### ✅ Ưu Điểm Version Stable
 
 ```diff
-Version 2.0 vs 1.3:
-+ VIP đến 2099 (vs 2050) - Thêm 49 năm!
-+ 16 endpoints (vs 3) - Tăng 433%!
-+ Debug mode + Console control
-+ Cache system - Performance boost
-+ Stealth mode - Anti-detection
-+ Configurable settings
-+ Code 536 dòng (vs 120) - Nhiều features hơn
-+ 19.8KB (vẫn nhỏ gọn)
-
-Version 2.0 vs FireT (cũ):
-+ 19.8KB (vs 207KB) - Nhẹ hơn 10 lần!
-+ KHÔNG cần key (vs cần key "2025")
-+ Hook fetch() + XHR (vs chỉ XHR)
-+ Hook 16 endpoints (vs 1 endpoint)
-+ Custom CSS + Animation (vs không có)
-+ Debug mode (vs không có)
-+ Modern ES6+ (vs ES5 old code)
-+ Dễ đọc dễ sửa (vs obfuscated)
++ Đơn giản: 194 dòng (vs 536 dòng complex)
++ Nhẹ: 5.6KB (vs 19.8KB complex)
++ Ổn định: Logic đã test từ tearrs
++ Đủ dùng: 8 endpoints cover hết cases
++ Không bugs: Không có features phức tạp
++ Performance: Load nhanh, overhead thấp
 ```
+
+### 🎯 8 Endpoints (Đủ Dùng)
+
+```
+Core Endpoints (3):
+  ✅ /v1/user/info          - Quan trọng nhất
+  ✅ /v1/user/updateProfile - Cần thiết
+  ✅ /v1/auth/login         - Cần thiết
+
+Additional (3):
+  ✅ /v1/user/profile       - Hữu ích
+  ✅ /v1/vip/check          - VIP check
+  ✅ /v1/vip/status         - VIP status
+
+Future-proof (2):
+  ✅ /v2/user/info          - API v2
+  ✅ /v2/user/profile       - API v2
+```
+
+---
+
+## 🆚 SO SÁNH VERSIONS
+
+| Feature | FireT (Cũ) | tearrs | Stable (Này) |
+|---------|-----------|--------|--------------|
+| **Kích thước** | 207KB | 3.1KB | **5.6KB** ✅ |
+| **Dòng code** | 642 | 120 | **194** ✅ |
+| **Cần key** | ✅ Yes | ❌ No | ❌ **No** ✅ |
+| **Obfuscated** | ✅ Yes | ❌ No | ❌ **No** ✅ |
+| **VIP đến** | 2050 | 2050 | **2099** ✅ |
+| **Endpoints** | 1 | 3 | **8** ✅ |
+| **Hook fetch()** | ❌ | ✅ | ✅ **Yes** |
+| **Hook XHR** | ✅ | ✅ | ✅ **Yes** |
+| **Tested** | ❌ | ✅ | ✅ **Yes** |
+
+---
+
+## 🔄 So Với Tearrs Original
+
+```diff
+Stable vs tearrs (only differences):
+
++ VIP date: 2050 → 2099 (Thêm 49 năm!)
++ Endpoints: 3 → 8 (Thêm 5 endpoints)
++ Code: 120 dòng → 194 dòng (thêm endpoints)
++ Size: 3.1KB → 5.6KB (vẫn nhỏ gọn)
+
+= Logic core: GIỐNG HỆT (proven working!)
+= Hook fetch(): GIỐNG HỆT
+= Hook XHR: GIỐNG HỆT
+= CSS injection: GIỐNG HỆT
+= Response cloning: GIỐNG HỆT
+```
+
+**→ Chỉ thay đổi date và thêm endpoints, logic core 100% giống tearrs!**
 
 ---
 
@@ -799,269 +728,6 @@ Xem JSON response:
 }
 
 → ✅ Script đã patch response!
-```
-
-</details>
-
----
-
-## 🎮 CONSOLE COMMANDS (Điều Khiển)
-
-### 📟 Hướng Dẫn Sử Dụng Console
-
-**Mở Console:**
-```
-Chrome/Edge: F12 → Tab "Console"
-Firefox: Ctrl+Shift+K
-Safari: Cmd+Option+C
-```
-
-### 🔧 Commands Có Sẵn
-
-#### 1️⃣ Xem Thông Tin & Help
-
-```javascript
-RophimBypass.info()
-```
-
-**Output:**
-```
-╔═══════════════════════════════════════════════════════════════╗
-║            🎬 ROPHIM VIP BYPASS v2.0 ADVANCED                ║
-╚═══════════════════════════════════════════════════════════════╝
-
-📊 Status:
-   • VIP Expiry: 18/07/2099 (Thứ Tư, 18 tháng 7 năm 2099 00:00:00)
-   • Coin Balance: 999.999.999
-   • Endpoints Hooked: 16
-   • Cache Entries: 3
-   • CSS Injected: ✅
-
-⚙️ Settings:
-   • Debug Mode: ❌
-   • Stealth Mode: ✅
-   • Theme Color: #51f085
-   • Hide Ads: ✅
-
-🎮 Console Commands:
-   • RophimBypass.enableDebug()  - Bật debug
-   • RophimBypass.disableDebug() - Tắt debug
-   • RophimBypass.setThemeColor('#color') - Đổi màu
-   • RophimBypass.clearCache()   - Xóa cache
-   • RophimBypass.getStats()     - Xem stats
-   • RophimBypass.info()         - Help này
-```
-
----
-
-#### 2️⃣ Bật/Tắt Debug Mode
-
-```javascript
-// Bật debug - Xem logs chi tiết
-RophimBypass.enableDebug()
-// → ✅ Debug mode enabled!
-
-// Tắt debug
-RophimBypass.disableDebug()
-// → ✅ Debug mode disabled!
-```
-
-**Khi bật debug, sẽ thấy:**
-```
-[Rophim Bypass] 🚀 Rophim VIP Bypass v2.0 Advanced loaded!
-[Rophim Bypass] 📅 VIP Expiry: 18/07/2099 00:00:00
-[Rophim Bypass] 💰 Coin Balance: 999.999.999
-[Rophim Bypass] 🎯 Hooked 16 endpoints
-[Rophim Bypass] 🌐 Fetch called: https://rophimapi.net/v1/user/info
-[Rophim Bypass] 🎯 Target matched: /v1/user/info
-[Rophim Bypass] 📥 Intercepted JSON response from: /v1/user/info
-[Rophim Bypass] 🔧 Patching response...
-[Rophim Bypass] ✅ Patched result: {is_vip: true, coin_balance: 999999999}
-```
-
----
-
-#### 3️⃣ Đổi Màu Theme
-
-```javascript
-// Đổi sang màu xanh dương
-RophimBypass.setThemeColor('#3b82f6')
-// → ✅ Theme color changed to: #3b82f6
-
-// Đổi sang màu tím
-RophimBypass.setThemeColor('#a855f7')
-
-// Đổi sang màu hồng
-RophimBypass.setThemeColor('#ec4899')
-
-// Đổi sang màu đỏ
-RophimBypass.setThemeColor('#ef4444')
-
-// Đổi về xanh lá (default)
-RophimBypass.setThemeColor('#51f085')
-```
-
-**Palette màu đẹp:**
-```javascript
-🔴 Red:    #ef4444
-🟠 Orange: #f97316
-🟡 Yellow: #eab308
-🟢 Green:  #22c55e  (hoặc #51f085 - default)
-🔵 Blue:   #3b82f6
-🟣 Purple: #a855f7
-🌸 Pink:   #ec4899
-⚫ Dark:   #1f2937
-```
-
----
-
-#### 4️⃣ Xóa Cache
-
-```javascript
-RophimBypass.clearCache()
-// → ✅ Cache cleared!
-```
-
-**Khi nào cần xóa cache?**
-- Website cập nhật API mới
-- Muốn force re-patch responses
-- Troubleshooting issues
-- Sau khi thay đổi CONFIG
-
----
-
-#### 5️⃣ Xem Statistics
-
-```javascript
-RophimBypass.getStats()
-```
-
-**Output:**
-```javascript
-{
-  version: "2.0",
-  endpoints: 16,
-  cacheSize: 3,
-  cssInjected: true,
-  debugMode: false,
-  stealthMode: true
-}
-```
-
----
-
-#### 6️⃣ Truy Cập Config
-
-```javascript
-// Xem toàn bộ config
-RophimBypass.config
-
-// Output:
-{
-  VIP_EXPIRY_TIMESTAMP: 4088496000,
-  COIN_BALANCE: 999999999,
-  IS_VIP: true,
-  DEBUG_MODE: false,
-  STEALTH_MODE: true,
-  RANDOMIZE_COINS: false,
-  AUTO_INJECT_CSS: true,
-  HIDE_ADS: true,
-  ENABLE_CACHE: true,
-  CACHE_DURATION: 60000,
-  THEME_COLOR: "#51f085"
-}
-
-// Đổi config real-time:
-RophimBypass.config.DEBUG_MODE = true  // Bật debug
-RophimBypass.config.RANDOMIZE_COINS = true  // Random coin
-```
-
----
-
-### 🎯 Use Cases Thực Tế
-
-<details>
-<summary><b>📌 Case 1: Debug khi không lên VIP</b></summary>
-
-```javascript
-// Step 1: Bật debug
-RophimBypass.enableDebug()
-
-// Step 2: Reload trang (F5)
-
-// Step 3: Xem console logs
-// Tìm dòng:
-// [Rophim Bypass] 🎯 Target matched: ...
-// [Rophim Bypass] ✅ Patched result: ...
-
-// Step 4: Nếu không thấy logs
-// → Script không hook được API
-// → Check Network tab xem API endpoint có đúng không
-
-// Step 5: Xem stats
-RophimBypass.getStats()
-// Check: endpoints, cacheSize, cssInjected
-```
-
-</details>
-
-<details>
-<summary><b>📌 Case 2: Đổi theme màu yêu thích</b></summary>
-
-```javascript
-// Step 1: Mở console (F12)
-
-// Step 2: Đổi màu
-RophimBypass.setThemeColor('#a855f7')  // Purple theme
-
-// Step 3: Màu đổi ngay lập tức!
-// Không cần reload
-
-// Step 4: Muốn đổi lại
-RophimBypass.setThemeColor('#51f085')  // Green (default)
-```
-
-</details>
-
-<details>
-<summary><b>📌 Case 3: Test random coin</b></summary>
-
-```javascript
-// Step 1: Bật random coins
-RophimBypass.config.RANDOMIZE_COINS = true
-
-// Step 2: Clear cache
-RophimBypass.clearCache()
-
-// Step 3: Reload (F5)
-
-// Step 4: Check coin
-// Mỗi lần reload → Coin khác nhau (998M-999M)
-// → Tự nhiên hơn, khó bị phát hiện
-```
-
-</details>
-
-<details>
-<summary><b>📌 Case 4: Troubleshoot website lỗi</b></summary>
-
-```javascript
-// Step 1: Tắt hết features
-RophimBypass.config.STEALTH_MODE = false
-RophimBypass.config.AUTO_INJECT_CSS = false
-RophimBypass.config.HIDE_ADS = false
-
-// Step 2: Reload (F5)
-
-// Step 3: Nếu vẫn lỗi
-// → Lỗi không phải do script
-
-// Step 4: Bật lại từng cái một để tìm culprit
-RophimBypass.config.STEALTH_MODE = true
-// Reload → Test
-
-RophimBypass.config.AUTO_INJECT_CSS = true
-// Reload → Test
 ```
 
 </details>
@@ -2197,50 +1863,33 @@ bypass-rophim/
 
 ## 📜 CHANGELOG
 
-### Version 2.0 Advanced (Current) - Nov 2025
+### Version 2.0 Stable (Current) - Nov 2025
 
-**🚀 MAJOR RELEASE - Advanced Features!**
+**✅ STABLE RELEASE - Tested & Proven!**
 
-**Core Improvements:**
+**Core Changes:**
 - ✅ **VIP đến 18/07/2099** (was 2050) - Thêm 49 năm!
-- ✅ **16 API endpoints** (was 3) - Tăng 433%!
-- ✅ **Code 536 dòng, 19.8KB** - Nhiều features nhưng vẫn nhỏ gọn
+- ✅ **8 API endpoints** (was 3) - Thêm 5 endpoints quan trọng
+- ✅ **Code 194 dòng, 5.6KB** - Đơn giản, nhẹ, ổn định
 
-**New Features:**
-- 🛡️ **Stealth Mode** - Anti-detection với native code mimicking
-- 💾 **Cache System** - Performance boost với smart caching (60s)
-- 🐛 **Debug Mode** - Advanced logging với styling
-- 🎮 **Console Control** - Điều khiển real-time từ console
-- 🎲 **Randomization** - Optional random coin balance (998M-999M)
-- ⚙️ **Configurable** - Tất cả settings có thể config
+**Based on tearrs (proven working logic):**
+- ✅ **Logic core 100% giống tearrs** - Đã test kỹ
+- ✅ **Hook fetch() & XHR** - Giống hệt tearrs
+- ✅ **Response cloning** - Safe, không break app
+- ✅ **CSS injection** - Giống tearrs
+- ✅ **Modern ES6+** - async/await, arrow functions
 
-**Extended Coverage:**
-- 📍 **5 User endpoints** (info, profile, updateProfile, me, settings)
-- 📍 **4 Auth endpoints** (login, register, refresh, verify)
-- 📍 **3 VIP endpoints** (check, status, subscription)
-- 📍 **2 Payment endpoints** (check, balance)
-- 📍 **2 V2 API** (future-proof cho API v2)
+**Endpoints Coverage:**
+- 📍 **3 Core endpoints** (info, updateProfile, login)
+- 📍 **3 Additional** (profile, vip/check, vip/status)
+- 📍 **2 V2 API** (future-proof)
 
-**Console Commands:**
-- `RophimBypass.info()` - Xem thông tin & help
-- `RophimBypass.enableDebug()` / `disableDebug()` - Toggle debug
-- `RophimBypass.setThemeColor(color)` - Đổi màu theme
-- `RophimBypass.clearCache()` - Xóa cache
-- `RophimBypass.getStats()` - Xem statistics
-- `RophimBypass.config` - Truy cập config real-time
-
-**Enhanced CSS:**
-- 🎨 Animated VIP badge với glow effect
-- 🎨 Pulse animation cho VIP indicator
-- 🎨 Hover effects cho buttons
-- 🎨 Improved ad blocking
-
-**Technical:**
-- ✅ Better error handling
-- ✅ Async/await throughout
-- ✅ Response cloning safety
-- ✅ Content-type checking
-- ✅ Random delays for stealth
+**Why Stable?**
+- ✅ Đơn giản (194 dòng vs 536 dòng complex)
+- ✅ Nhẹ (5.6KB vs 19.8KB complex)
+- ✅ Proven logic từ tearrs
+- ✅ Không có features phức tạp gây bugs
+- ✅ Tested & working!
 
 ---
 
@@ -2256,7 +1905,6 @@ bypass-rophim/
 - ✅ **Custom CSS** - Theme xanh lá (#51f085)
 - ✅ **Ẩn ads** - .app-box-fix display: none
 - ✅ **Modern ES6+** - async/await, arrow functions
-- ✅ **README mới** - 1,200+ dòng siêu chi tiết
 
 ---
 
