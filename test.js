@@ -17,15 +17,10 @@ console.log("📝 TEST 1: Kiểm tra Syntax...");
 try {
   const fs = require('fs');
   
-  // Check core.js
+  // Check core.js (optimized version)
   const coreCode = fs.readFileSync('./core.js', 'utf8');
   new Function(coreCode);  // Parse code
-  console.log("✅ core.js - Syntax OK");
-  
-  // Check core-optimized.js
-  const optimizedCode = fs.readFileSync('./core-optimized.js', 'utf8');
-  new Function(optimizedCode);  // Parse code
-  console.log("✅ core-optimized.js - Syntax OK");
+  console.log("✅ core.js - Syntax OK (Optimized version)");
   
 } catch (error) {
   console.log("❌ Syntax Error:", error.message);
