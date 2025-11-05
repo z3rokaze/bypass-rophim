@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Rophim VIP Bypass v2.0 Stable
+// @name         Rophim VIP Bypass z3rokaze
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  VIP đến 2099 + 999M Coin + 8 Endpoints - Stable & Tested
