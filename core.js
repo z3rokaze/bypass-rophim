@@ -6,29 +6,29 @@
   // ═══════════════════════════════════════════════════════════════
   
   // VIP expiry: 18/07/2099 00:00:00 UTC
-  const VIP_EXPIRY_DATE = new Date(2099, 6, 18, 0, 0, 0); // Month 6 = July
+  const VIP_EXPIRY_DATE = new Date(2099, 6, 18, 0, 0, 0);
   const VIP_EXPIRY_TIMESTAMP = Math.floor(VIP_EXPIRY_DATE.getTime() / 1000);
   const COIN_BALANCE = 999999999;
 
   // ═══════════════════════════════════════════════════════════════
-  // 🎯 API ENDPOINTS
+  // 🎯 API ENDPOINTS - Optimized với Set cho O(1) lookup
   // ═══════════════════════════════════════════════════════════════
   
-  const TARGETS = [
-    // Core endpoints (original)
+  const TARGETS = new Set([
+    // Core endpoints
     "https://rophimapi.net/v1/user/info",
     "https://rophimapi.net/v1/user/updateProfile",
     "https://rophimapi.net/v1/auth/login",
     
-    // Additional important endpoints
+    // Additional endpoints
     "https://rophimapi.net/v1/user/profile",
     "https://rophimapi.net/v1/vip/check",
     "https://rophimapi.net/v1/vip/status",
     
-    // V2 API support
+    // V2 API
     "https://rophimapi.net/v2/user/info",
     "https://rophimapi.net/v2/user/profile",
-  ];
+  ]);
 
   // ═══════════════════════════════════════════════════════════════
   // 🎨 CUSTOM CSS
@@ -74,68 +74,92 @@
   }
 
   // ═══════════════════════════════════════════════════════════════
-  // 🔧 PATCH USER INFO
+  // 🔧 PATCH USER INFO - Optimized
   // ═══════════════════════════════════════════════════════════════
   
+  const VIP_PATCH = {
+    vip_expires_at: VIP_EXPIRY_TIMESTAMP,
+    coin_balance: COIN_BALANCE,
+    is_vip: true,
+  };
+
   function patchUserInfo(data) {
-    if (data?.result) {
-      // Patch nested user object
-      if (data.result.user) {
-        Object.assign(data.result.user, {
-          vip_expires_at: VIP_EXPIRY_TIMESTAMP,
-          coin_balance: COIN_BALANCE,
-          is_vip: true,
-        });
-      }
-      // Patch result object
-      Object.assign(data.result, {
-        vip_expires_at: VIP_EXPIRY_TIMESTAMP,
-        coin_balance: COIN_BALANCE,
-        is_vip: true,
-      });
+    if (!data?.result) return data;
+    
+    // Single pass - patch all nested levels
+    const targets = [data.result];
+    if (data.result.user) {
+      targets.push(data.result.user);
     }
+    
+    targets.forEach(target => Object.assign(target, VIP_PATCH));
+    
     injectCSSOnce();
     return data;
   }
 
   // ═══════════════════════════════════════════════════════════════
-  // 🎯 URL CHECKER
+  // 🎯 URL CHECKER - Optimized với Set
   // ═══════════════════════════════════════════════════════════════
   
   function isTarget(url) {
-    return TARGETS.some((t) => url.includes(t));
+    if (!url) return false;
+    
+    // Fast check: exact match first
+    if (TARGETS.has(url)) return true;
+    
+    // Fallback: substring check
+    for (const target of TARGETS) {
+      if (url.includes(target)) return true;
+    }
+    return false;
   }
 
   // ═══════════════════════════════════════════════════════════════
-  // 🌐 FETCH API HOOK
+  // 🌐 FETCH API HOOK - Improved error handling
   // ═══════════════════════════════════════════════════════════════
   
   async function handleJsonResponse(res, url) {
     if (!isTarget(url)) return res;
+    
     try {
-      const clone = res.clone();
-      if ((clone.headers.get("content-type") || "").includes("application/json")) {
-        const data = await clone.json();
-        const patched = patchUserInfo(data);
-        return new Response(JSON.stringify(patched), {
-          status: res.status,
-          statusText: res.statusText,
-          headers: res.headers,
-        });
+      const contentType = res.headers.get("content-type");
+      if (!contentType?.includes("application/json")) {
+        return res;
       }
-    } catch (_) {}
-    return res;
+      
+      const clone = res.clone();
+      const data = await clone.json();
+      const patched = patchUserInfo(data);
+      
+      return new Response(JSON.stringify(patched), {
+        status: res.status,
+        statusText: res.statusText,
+        headers: res.headers,
+      });
+    } catch (error) {
+      // Log error for debugging but don't break
+      console.warn("[Rophim Bypass] Failed to patch response:", error.message);
+      return res;
+    }
   }
 
   const realFetch = window.fetch;
   window.fetch = async function (input, init) {
-    const url = typeof input === "string" ? input : input.url;
+    // Extract URL safely
+    let url;
+    try {
+      url = typeof input === "string" ? input : input?.url || "";
+    } catch (e) {
+      url = "";
+    }
+    
     const res = await realFetch.apply(this, arguments);
     return handleJsonResponse(res, url);
   };
 
   // ═══════════════════════════════════════════════════════════════
-  // 📡 XMLHttpRequest HOOK
+  // 📡 XMLHttpRequest HOOK - Fixed memory leak
   // ═══════════════════════════════════════════════════════════════
   
   const RealXHR = window.XMLHttpRequest;
@@ -145,30 +169,41 @@
 
     const origOpen = xhr.open;
     xhr.open = function (method, url, async, user, pass) {
-      targetUrl = url;
+      targetUrl = url || "";
       return origOpen.apply(this, arguments);
     };
 
     const origSend = xhr.send;
     xhr.send = function () {
-      this.addEventListener("load", function () {
-        if (isTarget(targetUrl)) {
-          try {
-            if ((xhr.getResponseHeader("content-type") || "").includes("application/json")) {
-              const data = JSON.parse(xhr.responseText);
-              const patched = patchUserInfo(data);
-              Object.defineProperty(xhr, "responseText", {
-                writable: true,
-                value: JSON.stringify(patched),
-              });
-              Object.defineProperty(xhr, "response", {
-                writable: true,
-                value: JSON.stringify(patched),
-              });
-            }
-          } catch (_) {}
+      // Use named function for cleanup capability
+      const loadHandler = function () {
+        if (!isTarget(targetUrl)) return;
+        
+        try {
+          const contentType = xhr.getResponseHeader("content-type");
+          if (!contentType?.includes("application/json")) return;
+          
+          const data = JSON.parse(xhr.responseText);
+          const patched = patchUserInfo(data);
+          const patchedText = JSON.stringify(patched);
+          
+          // Override response properties
+          Object.defineProperty(xhr, "responseText", {
+            writable: true,
+            configurable: true,
+            value: patchedText,
+          });
+          Object.defineProperty(xhr, "response", {
+            writable: true,
+            configurable: true,
+            value: patchedText,
+          });
+        } catch (error) {
+          console.warn("[Rophim Bypass] Failed to patch XHR response:", error.message);
         }
-      });
+      };
+      
+      this.addEventListener("load", loadHandler, { once: true });
       return origSend.apply(this, arguments);
     };
 
@@ -176,11 +211,11 @@
   };
 
   // ═══════════════════════════════════════════════════════════════
-  // 🎮 CONSOLE INFO (Optional - can be removed)
+  // 🎮 CONSOLE INFO
   // ═══════════════════════════════════════════════════════════════
   
   console.log(
-    "%c🎬 Rophim VIP Bypass",
+    "%c🎬 Rophim VIP Bypass (Optimized)",
     "font-size: 14px; font-weight: bold; color: #51f085;"
   );
   console.log(
